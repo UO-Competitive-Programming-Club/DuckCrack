@@ -1,6 +1,6 @@
 # Arrays 
-
-## Problems set
+Check box indicate if a solution is availible
+## Problem set
 ### Elements of Programming Interviews 2015
 - [ ] 6.1. The Dutch National Flag Problem
 - [ ] 6.2. Increment An Arbitrary Precision Interger
