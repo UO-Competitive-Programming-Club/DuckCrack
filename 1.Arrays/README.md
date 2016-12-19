@@ -39,6 +39,8 @@
 - [ ] 11. Container With Most Water QuestionEditorial Solution
 
 ### Geeks for Geeks
+- [ ] [Find Maximum Sum Strictly Increasing Subarray](http://www.geeksforgeeks.org/find-maximum-sum-strictly-increasing-subarray/)
+- [ ] [Sum of maximum elements of all subsets](http://www.geeksforgeeks.org/sum-maximum-elements-subsets/)
 
 
 ## Hard
