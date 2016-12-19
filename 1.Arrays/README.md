@@ -1,5 +1,5 @@
 # Arrays 
-
+Check box indicate if a solution is availible
 ## Problems set
 ### Elements of Programming Interviews 2015
 - [ ] 6.1. The Dutch National Flag Problem
