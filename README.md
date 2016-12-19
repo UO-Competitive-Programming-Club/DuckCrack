@@ -21,8 +21,8 @@ DuckCrack is a 15 weeks peer mentorship program leaded by UO Competitve Programm
 * Teaching 
     - Week 1:
         - Arrays (Dec/28/2016)
-        - Strings (Jan/9/2017)
-    - create general format of git repository
+        - Strings (Jan/9/2017
+    - create general format of git repository (Dec/19/2017)
     - Gathering distinctive problems from each resources 
     - Write Solutions with good comments for each problem
 
