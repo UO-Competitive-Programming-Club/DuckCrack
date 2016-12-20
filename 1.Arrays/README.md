@@ -2,14 +2,14 @@
 Check box indicate if a solution is availible
 ## Problem set
 ### Elements of Programming Interviews 2015
-- [ ] 6.1. The Dutch National Flag Problem
-- [ ] 6.2. Increment An Arbitrary Precision Interger
-- [ ] 6.3. Multiply Two Arbitrary Precision Intergers
-- [ ] 6.4. Advancing Through an array
-- [ ] 6.5. Delete Duplicates From a Sorted Array
-- [ ] 6.6. Buy and sell a strock once
-- [ ] 6.7. Buy and sell a strock Twice
-- [ ] 6.8. Enumerate All Primes to n  
+- [x] 6.1. The Dutch National Flag Problem
+- [x] 6.2. Increment An Arbitrary Precision Interger
+- [x] 6.3. Multiply Two Arbitrary Precision Intergers
+- [x] 6.4. Advancing Through an array
+- [x] 6.5. Delete Duplicates From a Sorted Array
+- [x] 6.6. Buy and sell a strock once
+- [x] 6.7. Buy and sell a strock Twice
+- [x] 6.8. Enumerate All Primes to n  
 - [ ] 6.9. Permute The Elements of An Array
 - [ ] 6.10. Compute the next permutation
 - [ ] 6.11. Sample Offline data
