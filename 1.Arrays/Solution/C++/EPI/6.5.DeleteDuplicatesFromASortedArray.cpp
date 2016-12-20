@@ -15,12 +15,9 @@ int RemoveDuplicates(vector<int>& A) {
     return write_index;
 }
 
-
 int main() {
     vector<int> A = {1,2,2,2,2,2,2,2,2,2,2,2,2,3,4,4,4,5,5,5,6,6,6,7,7,7,8,9,10};
     RemoveDuplicates(A);
-
     print_vector(A);
-
     return 0;
 }
