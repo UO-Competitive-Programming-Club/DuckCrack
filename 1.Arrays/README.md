@@ -26,17 +26,20 @@ Check box indicate if a solution is availible
 - [ ] 1.8 Zero Matrix
 
 ### Leetcode
-- [ ] 228. Summary Ranges QuestionEditorial Solution
+- [ ] 228. Summary Ranges 
 - [ ] 229. Majority Element II 
-- [ ] 442. Find All Duplicates in an Array QuestionEditorial Solution
-- [ ] 80. Remove Duplicates from Sorted Array II QuestionEditorial Solution
-- [ ] 238. Product of Array Except Self QuestionEditorial Solution
+- [ ] 442. Find All Duplicates in an Array 
+- [ ] 80. Remove Duplicates from Sorted Array II 
+- [ ] 238. Product of Array Except Self 
 - [ ] 54. Spiral Matrix 
 - [ ] 59. Spiral Matrix II 
-- [ ] 289. Game of Life QuestionEditorial Solution
-- [ ] 18. 4Sum QuestionEditorial Solution
-- [ ] 16. 3Sum Closest QuestionEditorial Solution
-- [ ] 11. Container With Most Water QuestionEditorial Solution
+- [ ] 289. Game of Life 
+- [ ] 18. 4Sum 
+- [ ] 16. 3Sum Closest 
+- [ ] 11. Container With Most Water 
+- [ ] 188. Best Time to Buy and Sell Stock IV
+- [ ] 122. Best Time to Buy and Sell Stock II
+- [ ] 309. Best Time to Buy and Sell Stock with Cooldown
 
 ### Geeks for Geeks
 - [ ] [Find Maximum Sum Strictly Increasing Subarray](http://www.geeksforgeeks.org/find-maximum-sum-strictly-increasing-subarray/)
