@@ -13,6 +13,7 @@
 #include <stack>
 #include <memory>
 #include <algorithm>
+#include <random>
 
 template <typename T>
 void print_vector(const std::vector<T>& A) {
