@@ -14,6 +14,7 @@
 #include <memory>
 #include <algorithm>
 #include <random>
+#include <sstream>
 
 template <typename T>
 void print_vector(const std::vector<T>& A) {
