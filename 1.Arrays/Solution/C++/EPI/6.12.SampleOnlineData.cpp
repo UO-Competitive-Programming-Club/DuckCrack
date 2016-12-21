@@ -17,7 +17,7 @@ std::vector<int> OnlineRandomSample(std::istringstream * sin, int k) {
 
     while (*sin >> x) {
         ++num_seen_so_far;
-        int idx_to_replace = std::uniform_int_distribution<int>{0, num_seen_so_far - 1}(seed);
+        int idx_to_replace = std::uniform_int_distribution<int>(0, num_seen_so_far - 1)(seed);
         if (idx_to_replace < k) {
 
             running_sample[idx_to_replace] = x;
