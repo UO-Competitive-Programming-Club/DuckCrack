@@ -11,9 +11,9 @@ Check box indicate if a solution is availible
 - [x] 6.7. Buy and sell a strock Twice
 - [x] 6.8. Enumerate All Primes to n  
 - [ ] 6.9. Permute The Elements of An Array **Hard**
-- [ ] 6.10. Compute the next permutation 
-- [ ] 6.11. Sample Offline data
-- [ ] 6.12. Sample Online data
+- [x] 6.10. Compute the next permutation 
+- [x] 6.11. Sample Offline data
+- [x] 6.12. Sample Online data
 - [ ] 6.13. Compute a random Permutation
 - [ ] 6.14. Compute a random Subset
 - [ ] 6.15. Generate Nonuniform Random Numbers
