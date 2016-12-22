@@ -22,7 +22,7 @@ void ZeroMatrixInPlace(vector<vector<int>>& matrix) {
     }
 
     /* check if the first column should be emptied */
-    for (int row = 0; row < width && !first_col_zero; ++row) {
+    for (int row = 0; row < height && !first_col_zero; ++row) {
         if (matrix[row][first_col] == 0) {
             first_col_zero = true;
         }
@@ -47,7 +47,9 @@ void ZeroMatrixInPlace(vector<vector<int>>& matrix) {
         }
     }
     
-    /* set columns to zero */
+    /* set columns to zero 
+     * iterating starting from the second column since we use the first 
+     * column to memoize the zero column */
     for (int col = 1; col < width; ++col) {
         if (matrix[first_row][col] == 0) {
             for (int row = 0; row < height; ++row) {
@@ -69,11 +71,7 @@ void ZeroMatrixInPlace(vector<vector<int>>& matrix) {
 
 int main(void) {
     vector<vector<int>> matrix = {
-        {0,1,1,1},
-	    {4,3,1,4},
-	    {1,1,1,4},
-	    {0,2,1,3},
-	    {1,0,0,1} 
+        {1,0},
     };
 
     print_matrix(matrix);
