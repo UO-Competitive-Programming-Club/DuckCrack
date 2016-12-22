@@ -1,37 +1,55 @@
 #include "../Debug.h"
+
 using namespace std;
 
-/* space O(N) solution */
-void ZeroMatrix(vector<vector<int>>& matrix) {
-    vector<int> zero_row(matrix[0].size(), 0), 
-                zero_col(matrix.size(), 0);
+/* space O(1) solution */
+void ZeroMatrixInPlace(vector<vector<int>>& matrix) {
+    /* using top row and the left most column to memoize whichs 
+     * rows and columns should be set to zero */
+    int width = matrix[0].size(),
+        height = matrix.size();
 
-    int m = matrix[0].size(),
-        n = matrix.size();
-
-    /* save row and col informations */
-    for (int i = 0; i < m; ++i) {
-        for (int j = 0; j < n; ++j) {
-            if (matrix[i][j] == 0) {
-                zero_row[i] = 1;
-                zero_col[j] = 1;
+    /* memorize the zero rows and zero columns */
+    for (int row = 0; row < height; ++row) {
+        for (int col = 0; col < width; ++col) {
+            if (matrix[row][col] == 0) {
+                matrix[0][col] = 0;
+                matrix[row][0] = 0;
             }
         }
     }
-
-    /* clear rows */
-    for (size_t i = 0; i < zero_row.size(); i++) {
-        if (zero_row[i]) {
-            fill(matrix[i].begin(), matrix[i].end(), 0);
+    
+    /* set zero rows to zero */
+    for (int row = 0; row < height; ++row) {
+        int first_col = 0;
+        if (matrix[row][first_col] == 0) {
+            fill(matrix[row].begin(), matrix[row].end(), 0);
         }
     }
-
-    /* clear columns */
-    for (size_t i = 0; i < zero_col.size(); i++) {
-        if (zero_col[i]) {
-            for (int j = 0; j < n; j++) {
-                 matrix[j][i] = 0;
+    
+    /* set columns to zero */
+    for (int col = 0; col < width; ++col) {
+        int first_row = 0;
+        if (matrix[first_row][col] == 0) {
+            for (int row = 0; row < height; ++row) {
+                matrix[row][col] = 0;
             }
         }
     }
+}
+
+int main(void) {
+    vector<vector<int>> matrix = {
+        {1,1,1,1,1},
+        {1,0,1,1,1},
+        {1,0,0,1,1},
+        {1,1,1,0,1},
+        {1,1,1,1,1}
+    };
+
+    print_matrix(matrix);
+    ZeroMatrixInPlace(matrix);
+    std::cout << std::endl;
+    print_matrix(matrix);
+    return 0;
 }

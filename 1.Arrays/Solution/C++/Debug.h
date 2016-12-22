@@ -33,5 +33,12 @@ void print_vector(const std::vector<T>& A) {
     }
 }
 
+template <typename T>
+void print_matrix(const std::vector<std::vector<T>>& matrix) { 
+    int height = matrix.size();
+    for (int i = 0; i < height; i++) {
+         print_vector(matrix[i]);
+    }
+}
 
 #endif
