@@ -22,11 +22,14 @@ void print_vector(const std::vector<T>& A) {
         std::cout << "empty vector" << std::endl;
     } else {
         std::cout << "[ ";
-        for (auto n: A) {
-            std::cout << n << ", ";
+        for (size_t i = 0; i < A.size(); ++i) {
+            std::cout << A[i];
+            if (i != A.size() - 1) {
+                std::cout << ", ";
+            }
         }
 
-        std::cout << "]" << std::endl;
+        std::cout << " ]" << std::endl;
     }
 }
 
