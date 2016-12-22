@@ -17,8 +17,8 @@ Check box indicate if a solution is availible
 - [ ] 6.13. Compute a random Permutation
 - [ ] 6.14. Compute a random Subset
 - [ ] 6.15. Generate Nonuniform Random Numbers
-- [ ] 6.16. The Sudoku Checker Problem
-- [ ] 6.17. Compute the spiral ordering of a 2D array
+- [x] 6.16. The Sudoku Checker Problem
+- [x] 6.17. Compute the spiral ordering of a 2D array
 - [ ] 6.18. Rotate a 2D array
 - [ ] 6.19. Compute rows in Pascal's triangle
 
@@ -49,6 +49,4 @@ Check box indicate if a solution is availible
 - [ ] [How to Find Top Two Maximum Number from Integer array in Java](http://www.java67.com/2014/03/how-to-find-top-two-maximum-number-from-integer-array-java.html)
 
 
-
 ## Hard
-
