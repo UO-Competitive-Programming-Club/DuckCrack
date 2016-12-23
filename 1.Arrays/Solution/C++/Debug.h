@@ -2,6 +2,7 @@
 #define _DEBUG_H_
 
 #include <iostream>
+#include <string>
 #include <vector>
 #include <unordered_set>
 #include <set>
