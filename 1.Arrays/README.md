@@ -27,8 +27,8 @@ Check box indicate if a solution is availible
 
 ### Leetcode
 - [x] 228. Summary Ranges 
-- [ ] 169. Majority Element
-- [ ] 229. Majority Element II 
+- [ ] 169. Majority Element **Moore Voting Algorithm**
+- [ ] 229. Majority Element II **Moore Voting Algorithm**
 - [ ] 442. Find All Duplicates in an Array 
 - [ ] 80. Remove Duplicates from Sorted Array II 
 - [ ] 238. Product of Array Except Self 
@@ -38,8 +38,10 @@ Check box indicate if a solution is availible
 - [ ] 18. 4Sum 
 - [ ] 16. 3Sum Closest 
 - [ ] 11. Container With Most Water 
-- [ ] 188. Best Time to Buy and Sell Stock IV
+- [ ] 121. Best Time to Buy and Sell Stock II
 - [ ] 122. Best Time to Buy and Sell Stock II
+- [ ] 123. Best Time to Buy and Sell Stock III
+- [ ] 188. Best Time to Buy and Sell Stock IV
 - [ ] 309. Best Time to Buy and Sell Stock with Cooldown
 
 ### Geeks for Geeks
@@ -48,6 +50,7 @@ Check box indicate if a solution is availible
 
 ### Others
 - [ ] [How to Find Top Two Maximum Number from Integer array in Java](http://www.java67.com/2014/03/how-to-find-top-two-maximum-number-from-integer-array-java.html)
+- [ ] [Cound Negative Intergers in Sorted Matrix](https://www.youtube.com/watch?v=5dJSZLmDsxk)
 
 
 ## Hard
