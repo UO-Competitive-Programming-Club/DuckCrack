@@ -31,8 +31,7 @@ Check box indicate if a solution is availible
 - [ ] 229. Majority Element II **Moore Voting Algorithm**
 - [x] 442. Find All Duplicates in an Array 
 - [x] 80. Remove Duplicates from Sorted Array II 
-- [ ] 238. Product of Array Except Self 
-- [ ] 54. Spiral Matrix 
+- [x] 238. Product of Array Except Self 
 - [ ] 59. Spiral Matrix II 
 - [ ] 289. Game of Life 
 - [ ] 18. 4Sum 
