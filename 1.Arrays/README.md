@@ -32,7 +32,7 @@ Check box indicate if a solution is availible
 - [x] 442. Find All Duplicates in an Array 
 - [x] 80. Remove Duplicates from Sorted Array II 
 - [x] 238. Product of Array Except Self 
-- [ ] 59. Spiral Matrix II 
+- [x] 59. Spiral Matrix II 
 - [ ] 289. Game of Life 
 - [ ] 18. 4Sum 
 - [ ] 16. 3Sum Closest 
