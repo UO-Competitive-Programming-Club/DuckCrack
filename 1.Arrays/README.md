@@ -33,7 +33,8 @@ Check box indicate if a solution is availible
 - [x] 80. Remove Duplicates from Sorted Array II 
 - [x] 238. Product of Array Except Self 
 - [x] 59. Spiral Matrix II 
-- [ ] 289. Game of Life 
+- [x] 1. Two Sum
+- [x] 167. Two Sum II
 - [ ] 18. 4Sum 
 - [ ] 16. 3Sum Closest 
 - [ ] 11. Container With Most Water 
