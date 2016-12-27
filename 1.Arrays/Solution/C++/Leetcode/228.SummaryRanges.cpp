@@ -12,7 +12,7 @@ vector<string> summaryRanges(const vector<int>& nums) {
     int nlen = nums.size(); 
 
     /* we pretend there is an extra element that is not in range with the last element */
-    for (int begin = 0, end = 1; end < nlen + 1; ++end) {
+    for (int begin = 0, end = 1; end <= nlen; ++end) {
         /* then we caculate the difference based on if we are at the last virual element or no */
         int difference = (end < nlen) ? abs(nums[end] - nums[end - 1]) : INT_MAX;
 
