@@ -30,7 +30,7 @@ Check box indicate if a solution is availible
 - [x] 169. Majority Element **Moore Voting Algorithm**
 - [ ] 229. Majority Element II **Moore Voting Algorithm**
 - [x] 442. Find All Duplicates in an Array 
-- [ ] 80. Remove Duplicates from Sorted Array II 
+- [x] 80. Remove Duplicates from Sorted Array II 
 - [ ] 238. Product of Array Except Self 
 - [ ] 54. Spiral Matrix 
 - [ ] 59. Spiral Matrix II 
