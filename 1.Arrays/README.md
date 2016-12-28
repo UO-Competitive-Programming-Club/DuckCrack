@@ -2,8 +2,7 @@
 Check box indicate if a solution is availible
 ## Problem set
 ### Elements of Programming Interviews 2015
-- [x] 6.1. The Dutch National Flag Problem
-- [x] 6.2. Increment An Arbitrary Precision Interger
+- [X] 6.2. Increment An Arbitrary Precision Interger
 - [x] 6.3. Multiply Two Arbitrary Precision Intergers
 - [x] 6.4. Advancing Through an array
 - [x] 6.5. Delete Duplicates From a Sorted Array
