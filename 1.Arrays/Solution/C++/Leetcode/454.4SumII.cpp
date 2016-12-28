@@ -1,6 +1,15 @@
 #include "../Debug.h"
 using namespace std; 
 
+/* the idea is to divid the problem into two parts:
+ * A[i] + B[j] and C[k] + D[m], we use two hashmaps
+ * to memoize the sum of the first part and the second part,
+ * it will take O(n^2) time, then we just need to look up for every
+ * A[i] + B[j] is there a C[k] + D[j] such that the sum of four of them
+ * is zero, if yes, we multiply the occurrance of the sum of the first part
+ * and the sum of second part.
+ * */
+
 int FourSumCount(const vector<int>& A, 
                  const vector<int>& B, 
                  const vector<int>& C, 
