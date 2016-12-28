@@ -34,7 +34,7 @@ Check box indicate if a solution is availible
 - [x] 59. Spiral Matrix II 
 - [x] 1. Two Sum
 - [x] 167. Two Sum II
-- [ ] 15. 3Sum
+- [x] 15. 3Sum
 - [ ] 16. 3Sum Closest 
 - [ ] 18. 4Sum 
 - [ ] 454. 4Sum II
