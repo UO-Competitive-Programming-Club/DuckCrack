@@ -35,7 +35,7 @@ Check box indicate if a solution is availible
 - [x] 1. Two Sum
 - [x] 167. Two Sum II
 - [x] 15. 3Sum
-- [ ] 16. 3Sum Closest 
+- [x] 16. 3Sum Closest 
 - [ ] 18. 4Sum 
 - [ ] 454. 4Sum II
 - [ ] 121. Best Time to Buy and Sell Stock 
