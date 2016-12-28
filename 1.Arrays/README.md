@@ -35,15 +35,16 @@ Check box indicate if a solution is availible
 - [x] 59. Spiral Matrix II 
 - [x] 1. Two Sum
 - [x] 167. Two Sum II
+- [ ] 15. 3Sum
+- [ ] 16. 3Sum Closest 
 - [ ] 18. 4Sum 
 - [ ] 454. 4Sum II
-- [ ] 16. 3Sum Closest 
-- [ ] 11. Container With Most Water 
 - [ ] 121. Best Time to Buy and Sell Stock 
 - [ ] 122. Best Time to Buy and Sell Stock II
 - [ ] 123. Best Time to Buy and Sell Stock III
 - [ ] 188. Best Time to Buy and Sell Stock IV
 - [ ] 309. Best Time to Buy and Sell Stock with Cooldown
+- [ ] 11. Container With Most Water 
 
 ### Geeks for Geeks
 - [ ] [Find Maximum Sum Strictly Increasing Subarray](http://www.geeksforgeeks.org/find-maximum-sum-strictly-increasing-subarray/)
