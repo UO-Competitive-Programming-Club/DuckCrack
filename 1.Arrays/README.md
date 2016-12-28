@@ -27,7 +27,6 @@ Check box indicate if a solution is availible
 ### Leetcode
 - [x] 228. Summary Ranges 
 - [x] 169. Majority Element **Moore Voting Algorithm**
-- [ ] 229. Majority Element II **Moore Voting Algorithm**
 - [x] 442. Find All Duplicates in an Array 
 - [x] 80. Remove Duplicates from Sorted Array II 
 - [x] 238. Product of Array Except Self 
@@ -38,12 +37,8 @@ Check box indicate if a solution is availible
 - [x] 16. 3Sum Closest 
 - [x] 18. 4Sum 
 - [x] 454. 4Sum II
-- [ ] 121. Best Time to Buy and Sell Stock 
-- [ ] 122. Best Time to Buy and Sell Stock II
-- [ ] 123. Best Time to Buy and Sell Stock III
-- [ ] 188. Best Time to Buy and Sell Stock IV
-- [ ] 309. Best Time to Buy and Sell Stock with Cooldown
-- [ ] 11. Container With Most Water 
+- [x] 122. Best Time to Buy and Sell Stock II
+- [x] 11. Container With Most Water 
 
 ### Geeks for Geeks
 - [ ] [Find Maximum Sum Strictly Increasing Subarray](http://www.geeksforgeeks.org/find-maximum-sum-strictly-increasing-subarray/)
