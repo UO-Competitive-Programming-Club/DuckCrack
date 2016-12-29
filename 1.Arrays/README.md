@@ -1,22 +1,52 @@
-# Arrays 
-Check box indicate if a solution is availible
+# Arrays
+First we need to know the difference between Array Resizable Array. In the interveiw
+problems we recommand you to use resizable array when solving array problem, especially
+in C++ (vector), it is as fast as native array, as you don't have to worry about memory
+management.
+
+## Basic Operations:
+* Look up by index **O(1)**
+* Overwrite **O(1)**
+* Insertion **worst case O(n)**
+    - Insert from the back O(1)
+* Deletion **worst case O(n)**
+    - Delete from the back O(1)
+
+## Tricks:
+* Be really careful with off by one error
+    - **EPI** 6.4. Advancing Through an array
+* Solving a problem using constant space, when using O(n) space makes the problem trival
+* Using memoization to optimize time complexity
+    - **Leetcode** 454. 4Sum II
+    - **Leetcode** 1. Two Sum (not sorted)
+* Instead of deleting an element from an array, try to overwrite it
+    - **EPI:** 6.5. Delete Duplicates From a Sorted Array
+* Learn to use multiple pointers
+    - **EPI** 6.1. The Dutch National Flag Problem
+* If it is sorted, take advantage of it.
+    - **Leetcode** 1. Two Sum (sorted)
+
+* Dynamic Programming
+
 ## Problem set
+Check box indicate if a solution is availible
 ### Elements of Programming Interviews 2015
+- [X] 6.1. The Dutch National Flag Problem
 - [X] 6.2. Increment An Arbitrary Precision Interger
-- [x] 6.3. Multiply Two Arbitrary Precision Intergers
-- [x] 6.4. Advancing Through an array
-- [x] 6.5. Delete Duplicates From a Sorted Array
-- [x] 6.6. Buy and sell a strock once
-- [x] 6.7. Buy and sell a strock Twice
-- [x] 6.8. Enumerate All Primes to n  
+- [X] 6.3. Multiply Two Arbitrary Precision Intergers
+- [X] 6.4. Advancing Through an array
+- [X] 6.5. Delete Duplicates From a Sorted Array
+- [X] 6.6. Buy and sell a strock once
+- [X] 6.7. Buy and sell a strock Twice
+- [X] 6.8. Enumerate All Primes to n  
 - [ ] 6.9. Permute The Elements of An Array **Hard**
-- [x] 6.10. Compute the next permutation 
-- [x] 6.11. Sample Offline data
-- [x] 6.12. Sample Online data
-- [x] 6.16. The Sudoku Checker Problem
-- [x] 6.17. Compute the spiral ordering of a 2D array
+- [X] 6.10. Compute the next permutation 
+- [X] 6.11. Sample Offline data
+- [X] 6.12. Sample Online data
+- [X] 6.16. The Sudoku Checker Problem
+- [X] 6.17. Compute the spiral ordering of a 2D array
 - [ ] 6.18. Rotate a 2D array
-- [x] 6.19. Compute rows in Pascal's triangle
+- [X] 6.19. Compute rows in Pascal's triangle
 
 ### Cracking the code interviews 6e
 - [x] 1.8 Zero Matrix
@@ -26,7 +56,7 @@ Check box indicate if a solution is availible
 - [x] 169. Majority Element **Moore Voting Algorithm**
 - [x] 442. Find All Duplicates in an Array 
 - [x] 80. Remove Duplicates from Sorted Array II 
-- [x] 238. Product of Array Except Self 
+- [x] 238. Product of Array Except itself 
 - [x] 59. Spiral Matrix II 
 - [x] 1. Two Sum
 - [x] 167. Two Sum II
