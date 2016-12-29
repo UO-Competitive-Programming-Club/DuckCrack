@@ -2,6 +2,7 @@
 #define _DEBUG_H_
 
 #include <iostream>
+#include <string>
 #include <vector>
 #include <unordered_set>
 #include <set>
@@ -13,6 +14,8 @@
 #include <stack>
 #include <memory>
 #include <algorithm>
+#include <random>
+#include <sstream>
 
 template <typename T>
 void print_vector(const std::vector<T>& A) {
@@ -20,13 +23,23 @@ void print_vector(const std::vector<T>& A) {
         std::cout << "empty vector" << std::endl;
     } else {
         std::cout << "[ ";
-        for (auto n: A) {
-            std::cout << n << ", ";
+        for (size_t i = 0; i < A.size(); ++i) {
+            std::cout << A[i];
+            if (i != A.size() - 1) {
+                std::cout << ", ";
+            }
         }
 
-        std::cout << "]" << std::endl;
+        std::cout << " ]" << std::endl;
     }
 }
 
+template <typename T>
+void print_matrix(const std::vector<std::vector<T>>& matrix) { 
+    int height = matrix.size();
+    for (int i = 0; i < height; i++) {
+         print_vector(matrix[i]);
+    }
+}
 
 #endif

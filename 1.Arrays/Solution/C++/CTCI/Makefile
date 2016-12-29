@@ -1,4 +1,4 @@
-TARGET=6.19.*.cpp
+TARGET=1.8.*.cpp
 all:
 	g++ -std=c++14 -g $(TARGET)
 clean:
