@@ -13,9 +13,6 @@ Check box indicate if a solution is availible
 - [x] 6.10. Compute the next permutation 
 - [x] 6.11. Sample Offline data
 - [x] 6.12. Sample Online data
-- [ ] 6.13. Compute a random Permutation **optional**
-- [ ] 6.14. Compute a random Subset **optional**
-- [ ] 6.15. Generate Nonuniform Random Numbers **optional**
 - [x] 6.16. The Sudoku Checker Problem
 - [x] 6.17. Compute the spiral ordering of a 2D array
 - [ ] 6.18. Rotate a 2D array
