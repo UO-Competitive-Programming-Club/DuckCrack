@@ -8,24 +8,24 @@ management.
 * Look up by index **O(1)**
 * Overwrite **O(1)**
 * Insertion **worst case O(n)**
-    - Insert from the back O(1)
+    - Insert from the back **O(1)**
 * Deletion **worst case O(n)**
-    - Delete from the back O(1)
+    - Delete from the back **O(1)**
 
 ## Tricks:
-* Be really careful with off by one error
+* **Be really careful with off by one error**
     - **EPI** *6.4. Advancing Through an array*
-* Solving a problem using constant space, when using O(n) space makes the problem trival
-* Using memoization to optimize time complexity
+* **Solving a problem using constant space, when using O(n) space makes the problem trival**
+* **Using memoization to optimize time complexity**
     - **Leetcode** *454. 4Sum II*
     - **Leetcode** *1. Two Sum (not sorted)*
-* Instead of deleting an element from an array, try to overwrite it
+* **Instead of deleting an element from an array, try to overwrite it**
     - **EPI:** *6.5. Delete Duplicates From a Sorted Array*
-* Learn to use multiple pointers
+* **Learn to use multiple pointers**
     - **EPI** *6.1. The Dutch National Flag Problem*
-* If it is sorted, take advantage of it.
+* **If it is sorted, take advantage of it.**
     - **Leetcode** *1. Two Sum (sorted)*
-* Dynamic Programming
+* **Dynamic Programming**
     - **EPI** *6.19. Compute rows in Pascal's triangle*
     - **EPI** *6.8. Enumerate All Primes to n*
 
