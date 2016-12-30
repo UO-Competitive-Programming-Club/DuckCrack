@@ -72,7 +72,7 @@ Check box indicate if a solution is availible
 ### Geeks for Geeks
 - [x] [Find Maximum Sum Strictly Increasing Subarray](http://www.geeksforgeeks.org/find-maximum-sum-strictly-increasing-subarray/)
 - [ ] [Sum of maximum elements of all subsets](http://www.geeksforgeeks.org/sum-maximum-elements-subsets/)
-- [ ] [Rearrange positive and negative numbers](http://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/)
+- [x] [Rearrange positive and negative numbers](http://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/)
 
 ### Others
 - [ ] [How to Find Top Two Maximum Number from Integer array in Java](http://www.java67.com/2014/03/how-to-find-top-two-maximum-number-from-integer-array-java.html)
