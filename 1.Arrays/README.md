@@ -15,7 +15,8 @@ management.
 ## Tricks:
 * **Be really careful with off by one error**
     - **EPI** *6.4. Advancing Through an array*
-* **Solving a problem using constant space, when using O(n) space makes the problem trival**
+* **Solving a problem using constant space, when using extra sotrage makes the problem trival**
+    - **CTCI** 1.8 Zero Matrix
 * **Using memoization to optimize time complexity**
     - **Leetcode** *454. 4Sum II*
     - **Leetcode** *1. Two Sum (not sorted)*
@@ -71,6 +72,7 @@ Check box indicate if a solution is availible
 ### Geeks for Geeks
 - [x] [Find Maximum Sum Strictly Increasing Subarray](http://www.geeksforgeeks.org/find-maximum-sum-strictly-increasing-subarray/)
 - [ ] [Sum of maximum elements of all subsets](http://www.geeksforgeeks.org/sum-maximum-elements-subsets/)
+- [ ] [Rearrange positive and negative numbers](http://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/)
 
 ### Others
 - [ ] [How to Find Top Two Maximum Number from Integer array in Java](http://www.java67.com/2014/03/how-to-find-top-two-maximum-number-from-integer-array-java.html)

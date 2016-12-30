@@ -25,7 +25,7 @@ void DutchNationalFlag(int pivot, vector<int>& A) {
 void SortArrayOfTwoValues(int low_val, vector<int>& A) {
     int low = 0;
     for (size_t i = 0; i < A.size(); ++i) {
-        if (A[i] > low_val) {
+        if (A[i] < low_val) {
             swap(A[low++], A[i]);
         }
     }
@@ -64,8 +64,9 @@ void GroupFourValues(vector<int>& A) {
 int main(void) {
     vector<int> A = { 3, 1, 0, 1, 3, 1, 2, 2, 1, 1, 0, 3, 0, 3, 1, 0, 1 };
     vector<int> A2 = { 1, 0, 2, 3};
-    GroupFourValues(A2);
-    print_vector(A2);
-
+    vector<int> A3 = { 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0};
+    print_vector(A3);
+    SortArrayOfTwoValues(0, A3);
+    print_vector(A3);
     return 0;
 }
