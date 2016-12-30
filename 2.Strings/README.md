@@ -3,8 +3,8 @@
 ##Problem Set
 
 ### Elements of Programming Interviews 2015
-- [ ] 7.1 Interconvert Strings And Integers
-- [ ] 7.2 Base Conversion
+- [x] 7.1 Interconvert Strings And Integers
+- [x] 7.2 Base Conversion
 - [ ] 7.3 Compute The Spreadsheet Column Encoding
 - [ ] 7.4 Replace And Remove
 - [ ] 7.5 Test Palindromicity
