@@ -5,9 +5,9 @@
 ### Elements of Programming Interviews 2015
 - [x] 7.1 Interconvert Strings And Integers
 - [x] 7.2 Base Conversion
-- [ ] 7.3 Compute The Spreadsheet Column Encoding
-- [ ] 7.4 Replace And Remove
-- [ ] 7.5 Test Palindromicity
+- [x] 7.3 Compute The Spreadsheet Column Encoding
+- [x] 7.4 Replace And Remove
+- [x] 7.5 Test Palindromicity
 - [ ] 7.6 Reverse All The Words In A Sentence
 - [ ] 7.7 Compute All Mnemonic For A Phone Number
 - [ ] 7.8 The Look And Say Problem
