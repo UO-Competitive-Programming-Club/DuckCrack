@@ -8,7 +8,7 @@
 - [x] 7.3 Compute The Spreadsheet Column Encoding
 - [x] 7.4 Replace And Remove
 - [x] 7.5 Test Palindromicity
-- [ ] 7.6 Reverse All The Words In A Sentence
+- [x] 7.6 Reverse All The Words In A Sentence
 - [ ] 7.7 Compute All Mnemonic For A Phone Number
 - [ ] 7.8 The Look And Say Problem
 - [ ] 7.9 Convert From Roman to Decimal
