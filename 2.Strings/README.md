@@ -9,8 +9,8 @@
 - [x] 7.4 Replace And Remove
 - [x] 7.5 Test Palindromicity
 - [x] 7.6 Reverse All The Words In A Sentence
-- [ ] 7.7 Compute All Mnemonic For A Phone Number
-- [ ] 7.8 The Look And Say Problem
+- [x] 7.7 Compute All Mnemonic For A Phone Number
+- [x] 7.8 The Look And Say Problem
 - [ ] 7.9 Convert From Roman to Decimal
 - [ ] 7.10 Compute All Valid IP Addresses
 - [ ] 7.11 Write a String Sinusoidally
