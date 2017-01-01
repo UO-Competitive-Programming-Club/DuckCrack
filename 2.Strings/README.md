@@ -49,7 +49,7 @@ we will be covering them later.
 - [ ] 91. Decode Ways
 - [ ] 49. Group Anagrams
 - [ ] 345. Reverse Vowels of a String
-- [ ] 459. Repeated Substring Pattern **Solve it in O(n) time**
+- [ ] 459. Repeated Substring Pattern **Solve it using KMP**
 
 ### Geeks for Geeks
 ### Others
