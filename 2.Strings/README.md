@@ -11,18 +11,14 @@
 - [x] 7.6 Reverse All The Words In A Sentence
 - [x] 7.7 Compute All Mnemonic For A Phone Number
 - [x] 7.8 The Look And Say Problem
-- [ ] 7.9 Convert From Roman to Decimal
-- [ ] 7.10 Compute All Valid IP Addresses
-- [ ] 7.11 Write a String Sinusoidally
-- [ ] 7.12 Implement Run-Length Encoding
-- [ ] 7.13 Find the First Occurrence of a Substring
+- [x] 7.11 Write a String Sinusoidally
+- [x] 7.13 Find the First Occurrence of a Substring **String Pattern Matching Algorithm**
 
 ### Cracking the code interviews 6e
 - [ ] 1.1 Is Unique
 - [ ] 1.2 Check Permutation
 - [ ] 1.3 URLify
 - [ ] 1.5 One Way
-- [ ] 1.6 String Compression
 - [ ] 1.9 String Rotation
 
 ### Leetcode
