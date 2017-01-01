@@ -17,10 +17,14 @@
 ### Cracking the code interviews 6e
 - [x] 1.1 Is Unique
 - [x] 1.2 Check Permutation
-- [ ] 1.5 One Way
 - [ ] 1.9 String Rotation
 
 ### Leetcode
+- [ ] 3. Longest Substring Without Repeating Characters
+- [ ] 91. Decode Ways
+- [ ] 49. Group Anagrams
+- [ ] 345. Reverse Vowels of a String
+
 ### Geeks for Geeks
 ### Others
 
