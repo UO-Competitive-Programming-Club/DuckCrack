@@ -17,7 +17,7 @@
 ### Cracking the code interviews 6e
 - [x] 1.1 Is Unique
 - [x] 1.2 Check Permutation
-- [x] 1.9 String Rotation ** Good Problem **
+- [x] 1.9 String Rotation **Good Problem**
 
 ### Leetcode
 ### Geeks for Geeks
