@@ -15,9 +15,8 @@
 - [x] 7.13 Find the First Occurrence of a Substring **String Pattern Matching Algorithm**
 
 ### Cracking the code interviews 6e
-- [ ] 1.1 Is Unique
-- [ ] 1.2 Check Permutation
-- [ ] 1.3 URLify
+- [x] 1.1 Is Unique
+- [x] 1.2 Check Permutation
 - [ ] 1.5 One Way
 - [ ] 1.9 String Rotation
 
