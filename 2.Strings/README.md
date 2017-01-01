@@ -1,7 +1,31 @@
 # Strings
+String is just a special type of array that takes characters as its elemets, but since
+the size of the acsii table has only 256 entries, so lots of problems can be solved using
+constant memory. Below are the things you must know for solving string related problem, note 
+that for those string problems that uses Stack, Dynamic Programming, Backtracking, and etc,
+we will be covering them later.
+
+#### Must Know:
+* Basic String operation in your interview language:
+    - Insert
+    - Concatenate
+    - Swap
+    - Reverse
+
+* Memoization Technique 
+    - **CTCI** 1.2 Check Permutation
+* Convert string or character to integers
+    - **EPI** 7.1 Interconvert Strings And Integers
+* Convert a number between different bases
+    - **EPI** 7.2 Base Conversion
+* "Deleting" Characters in place (swapping techique)
+    - **EPI** 7.4 Replace And Remove
+* Recursion to compute permutations
+    - **EPI** 7.7 Compute All Mnemonic For A Phone Number
+* String Matching Algorithm
+    - **EPI** 7.13 Find the First Occurrence of a Substring **String Pattern Matching Algorithm**
 
 ##Problem Set
-
 ### Elements of Programming Interviews 2015
 - [x] 7.1 Interconvert Strings And Integers
 - [x] 7.2 Base Conversion
