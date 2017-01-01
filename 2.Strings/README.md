@@ -24,6 +24,7 @@
 - [ ] 91. Decode Ways
 - [ ] 49. Group Anagrams
 - [ ] 345. Reverse Vowels of a String
+- [ ] 459. Repeated Substring Pattern
 
 ### Geeks for Geeks
 ### Others
