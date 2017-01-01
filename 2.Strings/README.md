@@ -11,23 +11,19 @@ we will be covering them later.
     - Concatenate
     - Swap
     - Reverse
-
 * Memoization Technique 
     - **CTCI** 1.2 Check Permutation
-
 * Convert string or character to integers
     - **EPI** 7.1 Interconvert Strings And Integers
-
 * Convert a number between different bases
     - **EPI** 7.2 Base Conversion
-
 * "Deleting" Characters in place (swapping techique)
     - **EPI** 7.4 Replace And Remove
-
 * Recursion to compute permutations
     - **EPI** 7.7 Compute All Mnemonic For A Phone Number
-
-* String Matching Algorithm
+* String Matching Algorithms:
+    - [KMP](https://www.youtube.com/watch?v=5i7oKodCRJo)
+    - [Rabin Karp](https://www.youtube.com/watch?v=H4VrKHVG5qI)
     - **EPI** 7.13 Find the First Occurrence of a Substring **String Pattern Matching Algorithm**
 
 ##Problem Set
@@ -53,7 +49,7 @@ we will be covering them later.
 - [ ] 91. Decode Ways
 - [ ] 49. Group Anagrams
 - [ ] 345. Reverse Vowels of a String
-- [ ] 459. Repeated Substring Pattern
+- [ ] 459. Repeated Substring Pattern **Solve it in O(n) time**
 
 ### Geeks for Geeks
 ### Others
