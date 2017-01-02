@@ -51,7 +51,8 @@ we will be covering them later.
 - [ ] 459. Repeated Substring Pattern **Solve it using KMP**
 
 ### Geeks for Geeks
-- [ ] [Minimum characters to be added at front to make string palindrome](https://github.com/UO-Competitive-Programming-Club/DuckCrack/tree/master/2.Strings)
+- [x] [Minimum characters to be added at front to make string palindrome](http://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)
+- [x] [Distinct strings with odd and even changes allowed](http://www.geeksforgeeks.org/distinct-strings-odd-even-changes-allowed/)
 
 ### Others
 
