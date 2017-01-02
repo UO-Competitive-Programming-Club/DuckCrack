@@ -46,12 +46,13 @@ we will be covering them later.
 
 ### Leetcode
 - [x] 3. Longest Substring Without Repeating Characters
-- [ ] 91. Decode Ways
 - [ ] 49. Group Anagrams
 - [ ] 345. Reverse Vowels of a String
 - [ ] 459. Repeated Substring Pattern **Solve it using KMP**
 
 ### Geeks for Geeks
+- [ ] [Minimum characters to be added at front to make string palindrome](https://github.com/UO-Competitive-Programming-Club/DuckCrack/tree/master/2.Strings)
+
 ### Others
 
 ## Hard
