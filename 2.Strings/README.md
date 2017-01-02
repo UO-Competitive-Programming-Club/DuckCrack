@@ -45,7 +45,7 @@ we will be covering them later.
 - [x] 1.9 String Rotation **Good Problem**
 
 ### Leetcode
-- [ ] 3. Longest Substring Without Repeating Characters
+- [x] 3. Longest Substring Without Repeating Characters
 - [ ] 91. Decode Ways
 - [ ] 49. Group Anagrams
 - [ ] 345. Reverse Vowels of a String
