@@ -23,7 +23,7 @@ fast as native array, and you don't have to worry about memory management.
     - **EPI** *6.4. Advancing Through an array*
 
 **self-check**: What's the result of the following code?
-```
+```C++
 int i, counter = 0
 for (i = 0; i < n; ++i) {
     ++counter;
