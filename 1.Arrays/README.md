@@ -1,16 +1,22 @@
 # Arrays
+
+**self-check**: What's the difference between normal array and resizable array? [answer](https://en.wikipedia.org/wiki/Dynamic_array)
+
 First we need to know the difference between Array Resizable Array. In the interveiw
-problems we recommand you to use resizable array when solving array problem, especially
-in C++ (vector), it is as fast as native array, as you don't have to worry about memory
-management.
+problems we recommand you to use resizable array when solving array problem, they are as 
+fast as native array, and you don't have to worry about memory management.
+* [C++ vector vs. array](http://stackoverflow.com/questions/381621/using-arrays-or-stdvectors-in-c-whats-the-performance-gap)
+* [Java Array vs. List](http://stackoverflow.com/questions/716597/array-or-list-in-java-which-is-faster)
 
 ## Basic Operations:
 * Look up by index **O(1)**
-* Overwrite **O(1)**
-* Insertion **worst case O(n)**
+* Update **O(1)**
+* Insert **O(n)** 
     - Insert from the back **O(1)**
-* Deletion **worst case O(n)**
+* Deletion **O(n)**
     - Delete from the back **O(1)**
+
+**self-check**: Why is it so expensive to perform insertion and deletion?
 
 ## Tricks:
 * **Be really careful with off by one error**
