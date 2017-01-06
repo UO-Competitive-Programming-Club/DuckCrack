@@ -20,7 +20,7 @@ fast as native array, and you don't have to worry about memory management.
 
 ## Tricks:
 **Be really careful with off by one error**
-    * **EPI** 6.4. Advancing Through an array
+* **EPI** 6.4. Advancing Through an array
 
 **self-check**: What's the result of the following code?
 ```C++
