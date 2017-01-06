@@ -21,6 +21,18 @@ fast as native array, and you don't have to worry about memory management.
 ## Tricks:
 * **Be really careful with off by one error**
     - **EPI** *6.4. Advancing Through an array*
+
+**self-check**: What's the result of the following code?
+```
+int i, counter = 0
+for (i = 0; i < n; ++i) {
+    ++counter;
+}
+
+print(counter);
+print(i);
+```
+
 * **Solving a problem using constant space, when using extra sotrage makes the problem trival**
     - **CTCI** 1.8 Zero Matrix
 * **Using memoization to optimize time complexity**
