@@ -1,4 +1,7 @@
 # Arrays
+
+[Meeting Slides](https://docs.google.com/presentation/d/1ksg8xLf84-c59HR5RfabVBSpLnewseAL_igEr6jPgCI/edit?usp=sharing)
+
 **self-check**: What's the difference between normal array and resizable array? [answer](https://en.wikipedia.org/wiki/Dynamic_array)
 
 First we need to know the difference between Array Resizable Array. In the interveiw
@@ -46,6 +49,8 @@ fast as native array, and you don't have to worry about memory management.
 * Marking on the input: (How to preserve the integrity of your markers?)
     - **CTCI** *1.8 Zero Matrix* (lecture)
     - **Leetcode** *Game of Life* (hands on)
+    - **Leetcode** 442. Find All Duplicates in an Array (lecture)
+    * **Leetcode** 448. Find All Numbers Disappeared in an Array (hands on)
 * Multiple Pointers:
     - **Geeks for Geeks** [Segregate 0s and 1s in an array](http://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/)
 
@@ -72,11 +77,6 @@ fast as native array, and you don't have to worry about memory management.
 * **Leetcode** *1. Two Sum (not sorted)* (lecture)
 * **EPI** *6.8. Enumerate All Primes to n* (lecture)
 * **Leetcode** *454. 4Sum II* (hands on)
-
-
-**Utlizing Limitations**
-* **Leetcode** *442. Find All Duplicates in an Array* (lecture)
-* **Leetcode** *448. Find All Numbers Disappeared in an Array* (hands on)
 
 
 ## Problem set
@@ -106,6 +106,7 @@ Check box indicate if a solution is availible
 - [x] 228. Summary Ranges 
 - [x] 169. Majority Element **Moore Voting Algorithm**
 - [x] 442. Find All Duplicates in an Array 
+* [x] 448. Find All Numbers Disappeared in an Array
 - [x] 80. Remove Duplicates from Sorted Array II 
 - [x] 238. Product of Array Except itself 
 - [x] 59. Spiral Matrix II 
@@ -118,7 +119,6 @@ Check box indicate if a solution is availible
 - [x] 122. Best Time to Buy and Sell Stock II
 - [x] 11. Container With Most Water 
 - [x] 55. Jump Game
-* [x] 448. Find All Numbers Disappeared in an Array
 - [x] 289. Game of Life Question
 
 ### Geeks for Geeks
