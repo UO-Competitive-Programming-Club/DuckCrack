@@ -42,7 +42,7 @@ print(j);
 - **EPI** 6.16. The Sudoku Checker Problem
 
 **Solving a problem using constant space, when using extra storage makes the problem trival**
-* Marking on the input:
+* Marking on the input: (How to preserve the integrity of your markers?)
     - **CTCI** *1.8 Zero Matrix* (lecture)
     - **Leetcode** *Game of Life* (hands on)
 * Multiple Pointers:
@@ -111,7 +111,7 @@ Check box indicate if a solution is availible
 - [x] 11. Container With Most Water 
 - [x] 55. Jump Game
 * [x] 448. Find All Numbers Disappeared in an Array
-- [ ] 289. Game of Life Question
+- [x] 289. Game of Life Question
 
 ### Geeks for Geeks
 - [x] [Find Maximum Sum Strictly Increasing Subarray](http://www.geeksforgeeks.org/find-maximum-sum-strictly-increasing-subarray/)
