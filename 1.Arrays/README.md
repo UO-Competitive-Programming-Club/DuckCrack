@@ -1,5 +1,4 @@
 # Arrays
-
 **self-check**: What's the difference between normal array and resizable array? [answer](https://en.wikipedia.org/wiki/Dynamic_array)
 
 First we need to know the difference between Array Resizable Array. In the interveiw
@@ -29,42 +28,48 @@ int i, counter = 0, n = 10;
 for (i = 0; i < n; ++i) {
     ++counter;
 }
-
 print(counter);
 print(i);
+
 
 int j, n = 10, counter2 = n;
 for (j = n; j <= 0; --j) {
     --counter2;
 }
-
 print(counter2);
 print(j);
 ```
-**Learn to use multiple pointers**
-* **Leetcode** *1. Two Sum (sorted)* (lecture)
-* Sort an array has only 1 and 0 (lecture)
-* **EPI:** *6.5. Delete Duplicates From a Sorted Array* (hands on)
-* **EPI** *6.1. The Dutch National Flag Problem*
+- **EPI** 6.16. The Sudoku Checker Problem
 
-**Solving a problem using constant space, when using extra sotrage makes the problem trival**
+**Solving a problem using constant space, when using extra storage makes the problem trival**
 * Marking on the input:
     - **CTCI** *1.8 Zero Matrix* (lecture)
     - **Leetcode** *Game of Life* (hands on)
+* Multiple Pointers:
+    - Sort an array has only 1 and 0 (see next trick)
 
-**Using memoization to optimize time complexity**
-* **Leetcode** *1. Two Sum (not sorted)* (lecture)
-* **Leetcode** *454. 4Sum II* (hands on)
-
-**Instead of deleting an element from an array, try to overwrite it**
-* **EPI:** *6.5. Delete Duplicates From a Sorted Array*
+**Learn to use multiple pointers**
+* Sort an array has only 1's and 0's (lecture)
+* **EPI** *6.1. The Dutch National Flag Problem* (homework)
 
 **If it is sorted, take advantage of it.**
-* **Leetcode** *1. Two Sum (sorted)*
+* **Leetcode** *1. Two Sum (sorted)* (lecture)
 
-**Dynamic Programming**
-* **EPI** *6.19. Compute rows in Pascal's triangle*
-* **EPI** *6.8. Enumerate All Primes to n*
+**Instead of deleting an element from an array, try to overwrite it**
+* **EPI:** *6.5. Delete Duplicates From a Sorted Array* (lecture)
+
+**Greedy Algorithm**
+* **EPI** *6.6. Buy and sell a stock once* (lecture)
+* **EPI** *6.6. Buy and sell a stock twice* (lecture)
+
+**Using extra space to reduce time complexity**
+* **Leetcode** *1. Two Sum (not sorted)* (lecture)
+* **EPI** *6.8. Enumerate All Primes to n* (lecture)
+* **Leetcode** *454. 4Sum II* (hands on)
+
+**Utlizing Limitations**
+* **Leetcode** *442. Find All Duplicates in an Array* (lecture)
+* **Leetcode** *448. Find All Numbers Disappeared in an Array* (hands on)
 
 ## Problem set
 Check box indicate if a solution is availible
@@ -104,6 +109,8 @@ Check box indicate if a solution is availible
 - [x] 454. 4Sum II
 - [x] 122. Best Time to Buy and Sell Stock II
 - [x] 11. Container With Most Water 
+- [x] 55. Jump Game
+* [x] 448. Find All Numbers Disappeared in an Array
 - [ ] 289. Game of Life Question
 
 ### Geeks for Geeks
@@ -114,6 +121,5 @@ Check box indicate if a solution is availible
 ### Others
 - [ ] [How to Find Top Two Maximum Number from Integer array in Java](http://www.java67.com/2014/03/how-to-find-top-two-maximum-number-from-integer-array-java.html)
 - [ ] [Cound Negative Intergers in Sorted Matrix](https://www.youtube.com/watch?v=5dJSZLmDsxk)
-
 
 ## Hard
