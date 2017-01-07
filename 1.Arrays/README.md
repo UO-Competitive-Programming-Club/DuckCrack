@@ -20,6 +20,7 @@ fast as native array, and you don't have to worry about memory management.
 
 ## Tricks:
 **Be really careful with off by one error**
+
 **self-check**: What's the result of the following code?
 ```C++
     int i, counter = 0, n = 10;
