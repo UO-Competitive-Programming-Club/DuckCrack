@@ -46,7 +46,7 @@ fast as native array, and you don't have to worry about memory management.
     - **CTCI** *1.8 Zero Matrix* (lecture)
     - **Leetcode** *Game of Life* (hands on)
 * Multiple Pointers:
-    - [Segregate 0s and 1s in an array](http://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/)
+    - **Geeks for Geeks** [Segregate 0s and 1s in an array](http://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/)
 
 
 **Learn to use multiple pointers**
@@ -54,17 +54,21 @@ fast as native array, and you don't have to worry about memory management.
 * **EPI** *6.1. The Dutch National Flag Problem* (homework)
 
 
+
 **If it is sorted, take advantage of it.**
 * **Leetcode** *1. Two Sum (sorted)* (lecture)
+
 
 
 **Instead of deleting an element from an array, try to overwrite it**
 * **EPI:** *6.5. Delete Duplicates From a Sorted Array* (lecture)
 
 
+
 **Greedy Algorithm**
 * **EPI** *6.6. Buy and sell a stock once* (lecture)
 * **EPI** *6.6. Buy and sell a stock twice* (lecture)
+
 
 
 **Using extra space to reduce time complexity**
@@ -73,9 +77,11 @@ fast as native array, and you don't have to worry about memory management.
 * **Leetcode** *454. 4Sum II* (hands on)
 
 
+
 **Utlizing Limitations**
 * **Leetcode** *442. Find All Duplicates in an Array* (lecture)
 * **Leetcode** *448. Find All Numbers Disappeared in an Array* (hands on)
+
 
 
 ## Problem set
