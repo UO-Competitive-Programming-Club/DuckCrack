@@ -48,28 +48,35 @@ print(j);
 * Multiple Pointers:
     - Sort an array has only 1 and 0 (see next trick)
 
+
 **Learn to use multiple pointers**
 * Sort an array has only 1's and 0's (lecture)
 * **EPI** *6.1. The Dutch National Flag Problem* (homework)
 
+
 **If it is sorted, take advantage of it.**
 * **Leetcode** *1. Two Sum (sorted)* (lecture)
+
 
 **Instead of deleting an element from an array, try to overwrite it**
 * **EPI:** *6.5. Delete Duplicates From a Sorted Array* (lecture)
 
+
 **Greedy Algorithm**
 * **EPI** *6.6. Buy and sell a stock once* (lecture)
 * **EPI** *6.6. Buy and sell a stock twice* (lecture)
+
 
 **Using extra space to reduce time complexity**
 * **Leetcode** *1. Two Sum (not sorted)* (lecture)
 * **EPI** *6.8. Enumerate All Primes to n* (lecture)
 * **Leetcode** *454. 4Sum II* (hands on)
 
+
 **Utlizing Limitations**
 * **Leetcode** *442. Find All Duplicates in an Array* (lecture)
 * **Leetcode** *448. Find All Numbers Disappeared in an Array* (hands on)
+
 
 ## Problem set
 Check box indicate if a solution is availible
