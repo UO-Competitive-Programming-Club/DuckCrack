@@ -20,33 +20,33 @@ fast as native array, and you don't have to worry about memory management.
 
 ## Tricks:
 **Be really careful with off by one error**
-* **EPI** 6.4. Advancing Through an array
-
 **self-check**: What's the result of the following code?
 ```C++
-int i, counter = 0, n = 10;
-for (i = 0; i < n; ++i) {
-    ++counter;
-}
-print(counter);
-print(i);
+    int i, counter = 0, n = 10;
+    for (i = 0; i < n; ++i) {
+        ++counter;
+    }
+    print(counter);
+    print(i);
 
 
-int j, n = 10, counter2 = n;
-for (j = n; j <= 0; --j) {
-    --counter2;
-}
-print(counter2);
-print(j);
+    int j, n = 10, counter2 = n;
+    for (j = n; j <= 0; --j) {
+        --counter2;
+    }
+    print(counter2);
+    print(j);
 ```
-- **EPI** 6.16. The Sudoku Checker Problem
+* **EPI** 6.16. The Sudoku Checker Problem
+* **EPI** 6.4. Advancing Through an array
+
 
 **Solving a problem using constant space, when using extra storage makes the problem trival**
 * Marking on the input: (How to preserve the integrity of your markers?)
     - **CTCI** *1.8 Zero Matrix* (lecture)
     - **Leetcode** *Game of Life* (hands on)
 * Multiple Pointers:
-    - Sort an array has only 1 and 0 (see next trick)
+    - [Segregate 0s and 1s in an array](http://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/)
 
 
 **Learn to use multiple pointers**
