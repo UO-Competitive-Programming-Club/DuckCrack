@@ -11,6 +11,7 @@ fast as native array, and you don't have to worry about memory management.
 ## Basic Operations:
 * Look up by index **O(1)**
 * Update **O(1)**
+    - Swap **O(1)**
 * Insert **O(n)** 
     - Insert from the back **O(1)**
 * Deletion **O(n)**
@@ -24,35 +25,46 @@ fast as native array, and you don't have to worry about memory management.
 
 **self-check**: What's the result of the following code?
 ```C++
-int i, counter = 0
+int i, counter = 0, n = 10;
 for (i = 0; i < n; ++i) {
     ++counter;
 }
 
 print(counter);
 print(i);
+
+int j, n = 10, counter2 = n;
+for (j = n; j <= 0; --j) {
+    --counter2;
+}
+
+print(counter2);
+print(j);
 ```
+**Learn to use multiple pointers**
+* **Leetcode** *1. Two Sum (sorted)* (lecture)
+* Sort an array has only 1 and 0 (lecture)
+* **EPI:** *6.5. Delete Duplicates From a Sorted Array* (hands on)
+* **EPI** *6.1. The Dutch National Flag Problem*
 
 **Solving a problem using constant space, when using extra sotrage makes the problem trival**
-  * **CTCI** 1.8 Zero Matrix
-  * **EPI** 6.5. Delete Duplicates From a Sorted Array
+* Marking on the input:
+    - **CTCI** *1.8 Zero Matrix* (lecture)
+    - **Leetcode** *Game of Life* (hands on)
 
 **Using memoization to optimize time complexity**
-  * **Leetcode** *454. 4Sum II*
-  * **Leetcode** *1. Two Sum (not sorted)*
+* **Leetcode** *1. Two Sum (not sorted)* (lecture)
+* **Leetcode** *454. 4Sum II* (hands on)
 
 **Instead of deleting an element from an array, try to overwrite it**
-  * **EPI:** *6.5. Delete Duplicates From a Sorted Array*
-
-**Learn to use multiple pointers**
-  * **EPI** *6.1. The Dutch National Flag Problem*
+* **EPI:** *6.5. Delete Duplicates From a Sorted Array*
 
 **If it is sorted, take advantage of it.**
-  * **Leetcode** *1. Two Sum (sorted)*
+* **Leetcode** *1. Two Sum (sorted)*
 
 **Dynamic Programming**
-  * **EPI** *6.19. Compute rows in Pascal's triangle*
-  * **EPI** *6.8. Enumerate All Primes to n*
+* **EPI** *6.19. Compute rows in Pascal's triangle*
+* **EPI** *6.8. Enumerate All Primes to n*
 
 ## Problem set
 Check box indicate if a solution is availible
@@ -92,6 +104,7 @@ Check box indicate if a solution is availible
 - [x] 454. 4Sum II
 - [x] 122. Best Time to Buy and Sell Stock II
 - [x] 11. Container With Most Water 
+- [ ] 289. Game of Life Question
 
 ### Geeks for Geeks
 - [x] [Find Maximum Sum Strictly Increasing Subarray](http://www.geeksforgeeks.org/find-maximum-sum-strictly-increasing-subarray/)
