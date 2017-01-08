@@ -25,6 +25,16 @@ struct ListNode {
 * Search for a node **O(n)**
 
 **Linked List Recursions**
+* Finding the Length of a list
+* Searching for a value
+* Print the list
+* Inserting an Item into a sorted list
+* Deleting an item from a list
+* Appending two lists
+* Zipping two lists
+* Merging two sorted lists
+* Reversing a List
+
 
 ## Tricks
 **Runner Method**
