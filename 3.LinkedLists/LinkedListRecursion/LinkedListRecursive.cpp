@@ -1,23 +1,24 @@
 #include <iostream> 
 #include <memory> 
+using namespace std;
 
 template <typename T>
 struct SinglyListNode {
     T data;
-    std::shared_ptr<SinglyListNode<T>> next;
+    shared_ptr<SinglyListNode<T>> next;
     SinglyListNode(T data) {
         this->data = data;
         this->next = nullptr;
     }
 
-    SinglyListNode(T data, std::shared_ptr<SinglyListNode<T>> next) {
+    SinglyListNode(T data, shared_ptr<SinglyListNode<T>> next) {
         this->data = data;
         this->next = next;
     }
 };
 
 template <typename T>
-int ListLength(std::shared_ptr<SinglyListNode<T>>& head) {
+int ListLength(shared_ptr<SinglyListNode<T>>& head) {
     if (head == nullptr) {
         return 0;
     }
@@ -26,7 +27,7 @@ int ListLength(std::shared_ptr<SinglyListNode<T>>& head) {
 }
 
 template <typename T>
-std::shared_ptr<SinglyListNode<T>> Search(std::shared_ptr<SinglyListNode<T>>& head, T data) {
+shared_ptr<SinglyListNode<T>> Search(shared_ptr<SinglyListNode<T>>& head, T data) {
     if ((head == nullptr) || (head->data == data)) {
         return head; 
     }
@@ -35,20 +36,30 @@ std::shared_ptr<SinglyListNode<T>> Search(std::shared_ptr<SinglyListNode<T>>& he
 }
 
 template <typename T>
-void PrintList(std::shared_ptr<SinglyListNode<T>>& head) {
+void PrintList(shared_ptr<SinglyListNode<T>>& head) {
     if (head != nullptr) {
-        std::cout << head->data << "->" << std::endl;
+        cout << head->data << "->" << endl;
         PrintList(head->next);
     } 
 }
 
-/* when changing the structure of the linkedlist */
+/* reconstructing list template */
 template <typename T>
-std::shared_ptr<SinglyListNode<T>> InsertSorted(std::shared_ptr<SinglyListNode<T>>& head, T data) {
+shared_ptr<SinglyListNode<T>> Construct(shared_ptr<SinglyListNode<T>>& head) {
     if (head == nullptr) {
-        return std::make_shared<SinglyListNode<T>>(data);
+        return nullptr;
+    } else {
+        head->next = construct(head->next);
+        return head;
+    }
+}
+
+template <typename T>
+shared_ptr<SinglyListNode<T>> InsertSorted(shared_ptr<SinglyListNode<T>>& head, T data) {
+    if (head == nullptr) {
+        return make_shared<SinglyListNode<T>>(data);
     } else if (head->data >= data) {
-        return std::make_shared<SinglyListNode<T>>(data, head);
+        return make_shared<SinglyListNode<T>>(data, head);
     } else {
         head->next = InsertSorted( head->next, data);
         return head;
