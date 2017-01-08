@@ -24,7 +24,7 @@ struct ListNode {
     - When can this operation be fast?
 * Search for a node **O(n)**
 
-**Linked List Recursions**
+**Linked List Recursions** [Explanation](http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/LinkedListNotes.Recursion.LLs.html)
 * Finding the Length of a list
 * Searching for a value
 * Print the list
