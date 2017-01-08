@@ -55,9 +55,14 @@ struct ListNode {
 - [ ] 2.4 Partition
 
 ### Leetcode
+- [ ] 24. Swap Nodes in Pairs
+- [ ] 203. Remove Linked List Elements
+- [ ] 143. Reorder List
+- [ ] 147. Insertion Sort List
+- [ ] 148. Sort List
 
+### GeeksforGeeks
 ### Others
-
 ## Hard
 
 
