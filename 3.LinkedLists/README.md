@@ -8,23 +8,18 @@ difference linked list:
 
 ## Must Know:
 **How to implement a linked list**
-C++ example:
-```C++
-template <typename T>
-struct ListNode {
-    T data;
-    shared_ptr<ListNode<T>> next;
-}
-```
 
 **Linked List Basic Operations**
+
 * Insert **O(n)**
     - When can this operation be fast?
 * Delete a node **O(n)**
     - When can this operation be fast?
 * Search for a node **O(n)**
 
-**Linked List Recursions** [Explanation](http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/LinkedListNotes.Recursion.LLs.html)
+**Linked List Recursions** 
+
+[Explanation](http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/LinkedListNotes.Recursion.LLs.html)
 * Finding the Length of a list
 * Searching for a value
 * Print the list
@@ -37,11 +32,17 @@ struct ListNode {
 
 
 ## Tricks
+**Dummy Head**
+* **EPI** 8.1 Merge Two Sorted Lists
+    - Question: How to merge two sorted arrays?
+
 **Runner Method**
 * Distance Runner
-* Slow and Fast
 
-**Dummy Head**
+* Slow and Fast
+    - **EPI** 8.3 Test For Cyclicity
+    - **CCTI** 2.3 Delete the Middle Node
+
 
 ##Problem Set
 ### Elements of Programming Interviews 2015
@@ -53,8 +54,8 @@ struct ListNode {
 - [x] 8.6 Delete A Node From A Singly LinkedList
 - [x] 8.7 Remove the Kth Last Element From a List
 - [x] 8.8 Remove Duplicates from a Sorted List
-- [ ] 8.9 Implement Cycle Right Shift For Singly LinkedList
-- [ ] 8.10 Implement Even Odd Merge
+- [x] 8.9 Implement Cycle Right Shift For Singly LinkedList
+- [x] 8.10 Implement Even Odd Merge
 - [ ] 8.11 Test Whether a Singly LinkedList is Palindromic
 - [ ] 8.12 Implement List Pivoting
 - [ ] 8.13 Add List-based Integers

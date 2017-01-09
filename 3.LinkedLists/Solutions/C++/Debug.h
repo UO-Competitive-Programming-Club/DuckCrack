@@ -20,7 +20,7 @@
 /* arrays */
 
 template <typename T>
-void print_vector(const std::vector<T>& A) {
+void PrintVector(const std::vector<T>& A) {
     if (A.empty()) {
         std::cout << "empty vector" << std::endl;
     } else {
@@ -40,7 +40,7 @@ template <typename T>
 void print_matrix(const std::vector<std::vector<T>>& matrix) { 
     int height = matrix.size();
     for (int i = 0; i < height; i++) {
-         print_vector(matrix[i]);
+         PrintVector(matrix[i]);
     }
 }
 
@@ -75,7 +75,7 @@ void PrintList(std::shared_ptr<ListNode<T>>& head) {
         std::cout << head->data << " -> ";
         PrintList(head->next);
     } else {
-        std::cout <<  std::endl;
+        std::cout << "nullptr"<<  std::endl;
     }
 }
 
