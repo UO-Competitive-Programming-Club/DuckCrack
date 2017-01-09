@@ -45,7 +45,6 @@ void print_matrix(const std::vector<std::vector<T>>& matrix) {
 }
 
 /* linked list */
-
 template <typename T>
 struct ListNode {
     T data;
@@ -89,6 +88,25 @@ std::shared_ptr<ListNode<T>> Insert(std::shared_ptr<ListNode<T>>& head, T data) 
         head->next = Insert(head->next, data);
         return head;
     }
+}
+
+
+template <typename T>
+std::shared_ptr<ListNode<T>> Search(std::shared_ptr<ListNode<T>>& head, T data) {
+    if ((head == nullptr) || (head->data == data)) {
+        return head; 
+    }
+
+    return Search(head->next, data);
+}
+
+template <typename T>
+std::shared_ptr<ListNode<T>> ListTail(std::shared_ptr<ListNode<T>>& head) {
+    if ((head == nullptr) || (head->next == nullptr)) {
+        return head; 
+    }
+
+    return ListTail(head->next);
 }
 
 template <typename T>
