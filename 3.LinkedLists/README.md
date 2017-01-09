@@ -56,8 +56,8 @@ difference linked list:
 - [x] 8.8 Remove Duplicates from a Sorted List
 - [x] 8.9 Implement Cycle Right Shift For Singly LinkedList
 - [x] 8.10 Implement Even Odd Merge
-- [ ] 8.11 Test Whether a Singly LinkedList is Palindromic
-- [ ] 8.12 Implement List Pivoting
+- [x] 8.11 Test Whether a Singly LinkedList is Palindromic
+- [x] 8.12 Implement List Pivoting
 - [ ] 8.13 Add List-based Integers
 
 ### Cracking the code interviews 6e
