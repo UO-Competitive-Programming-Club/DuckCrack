@@ -111,7 +111,7 @@ std::shared_ptr<ListNode<T>> ListTail(std::shared_ptr<ListNode<T>>& head) {
 
 template <typename T>
 std::shared_ptr<ListNode<T>> AdvanceListIter(std::shared_ptr<ListNode<T>>& iter, int distance) {
-    if (distance == 0 || !(iter->next)) {
+    if (distance == 0 || !iter) {
         return iter;
     }
 
