@@ -110,6 +110,26 @@ std::shared_ptr<ListNode<T>> ListTail(std::shared_ptr<ListNode<T>>& head) {
 }
 
 template <typename T>
+std::shared_ptr<ListNode<T>> AdvanceListIter(std::shared_ptr<ListNode<T>>& iter, int distance) {
+    if (distance == 0 || !(iter->next)) {
+        return iter;
+    }
+
+    return AdvanceListIter(iter->next, distance - 1);
+}
+
+template <typename T>
+std::shared_ptr<ListNode<T>> AppendLists(std::shared_ptr<ListNode<T>>& head1, 
+        std::shared_ptr<ListNode<T>>& head2) {
+    if (head1 == nullptr) {
+        return head2;
+    } else {
+        head1->next = AppendLists(head1->next, head2);
+        return head1;
+    }
+}
+
+template <typename T>
 std::shared_ptr<ListNode<T>> VectorToLinkedList(std::vector<T>& A) {
     if (A.empty()) {
         std::cout << "input is empty" << std::endl;
