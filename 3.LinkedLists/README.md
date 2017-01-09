@@ -45,14 +45,14 @@ struct ListNode {
 
 ##Problem Set
 ### Elements of Programming Interviews 2015
-- [ ] 8.1 Merge Two Sorted Lists
-- [ ] 8.2 Reverse A Single Sublist
-- [ ] 8.3 Test For Cyclicity
-- [ ] 8.4 Test For Overlapping Lists No Cycles
-- [ ] 8.5 Test For Overlapping Lists Might Have Cycles
-- [ ] 8.6 Delete A Node From A Singly LinkedList
-- [ ] 8.7 Remove the Kth Last Element From a List
-- [ ] 8.8 Remove Duplicates from a Sorted List
+- [x] 8.1 Merge Two Sorted Lists
+- [x] 8.2 Reverse A Single Sublist
+- [x] 8.3 Test For Cyclicity
+- [x] 8.4 Test For Overlapping Lists No Cycles
+- [x] 8.5 Test For Overlapping Lists Might Have Cycles
+- [x] 8.6 Delete A Node From A Singly LinkedList
+- [x] 8.7 Remove the Kth Last Element From a List
+- [x] 8.8 Remove Duplicates from a Sorted List
 - [ ] 8.9 Implement Cycle Right Shift For Singly LinkedList
 - [ ] 8.10 Implement Even Odd Merge
 - [ ] 8.11 Test Whether a Singly LinkedList is Palindromic
