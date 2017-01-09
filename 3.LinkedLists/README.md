@@ -58,7 +58,7 @@ difference linked list:
 - [x] 8.10 Implement Even Odd Merge
 - [x] 8.11 Test Whether a Singly LinkedList is Palindromic
 - [x] 8.12 Implement List Pivoting
-- [ ] 8.13 Add List-based Integers
+- [x] 8.13 Add List-based Integers
 
 ### Cracking the code interviews 6e
 - [ ] 2.1 Remove Duplicates From a Unsorted LinkedList
