@@ -63,7 +63,6 @@ difference linked list:
 ### Cracking the code interviews 6e
 - [ ] 2.1 Remove Duplicates From a Unsorted LinkedList
 - [ ] 2.3 Delete the Middle Node
-- [ ] 2.4 Partition
 
 ### Leetcode
 - [ ] 24. Swap Nodes in Pairs
