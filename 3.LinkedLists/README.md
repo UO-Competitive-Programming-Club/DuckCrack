@@ -61,8 +61,8 @@ difference linked list:
 - [x] 8.13 Add List-based Integers
 
 ### Cracking the code interviews 6e
-- [ ] 2.1 Remove Duplicates From a Unsorted LinkedList
-- [ ] 2.3 Delete the Middle Node
+- [x] 2.1 Remove Duplicates From a Unsorted LinkedList
+- [x] 2.3 Delete the Middle Node
 
 ### Leetcode
 - [ ] 24. Swap Nodes in Pairs
