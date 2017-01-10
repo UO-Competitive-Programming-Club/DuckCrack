@@ -66,16 +66,14 @@ difference linked list:
 
 ### Leetcode
 - [ ] 24. Swap Nodes in Pairs
-- [ ] 203. Remove Linked List Elements
+- [x] 203. Remove Linked List Elements
 - [ ] 143. Reorder List
 - [ ] 147. Insertion Sort List
 - [ ] 148. Sort List
 
 ### GeeksforGeeks
+- [ ] [Merge Sort for Linkedlist](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
+
+
 ### Others
 ## Hard
-
-
-
-
-
