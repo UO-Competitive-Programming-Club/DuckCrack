@@ -6,8 +6,8 @@
 
 ##Porblem set
 ####EPI
-- [ ] 9.1 Implement A Stack With Max API
-- [ ] 9.2 Evaluate RPN Experssions
+- [x] 9.1 Implement A Stack With Max API
+- [x] 9.2 Evaluate RPN Experssions
 - [ ] 9.3 Test A String Over Bracket For Well-Formedness
 - [ ] 9.4 Normalize Pathnames
 - [ ] 9.5 Search A Postings List
