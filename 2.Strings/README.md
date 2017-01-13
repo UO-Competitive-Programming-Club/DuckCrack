@@ -6,26 +6,27 @@ that for those string problems that uses Stack, Dynamic Programming, Backtrackin
 we will be covering them later.
 
 #### Must Know:
-* Basic String operation in your interview language:
+* **Basic String operation in your interview language:**
     - Insert
     - Concatenate
     - Swap
     - Reverse
-* Memoization Technique 
+* **ASCii Table Memoization Technique**
     - **CTCI** 1.2 Check Permutation
-* Convert string or character to integers
+* **Convert string or character to integers**
     - **EPI** 7.1 Interconvert Strings And Integers
-* Convert a number between different bases
+* **Convert a number between different bases**
     - **EPI** 7.2 Base Conversion
-* "Deleting" Characters in place (swapping techique)
+* **"Deleting" Characters in place (swapping techique)**
     - **EPI** 7.4 Replace And Remove
-* Recursion to compute permutations
+* **Recursion to compute permutations**
     - **EPI** 7.7 Compute All Mnemonic For A Phone Number
-* String Matching Algorithms:
+* **String Matching Algorithms:**
     - [KMP](https://www.youtube.com/watch?v=5i7oKodCRJo)
     - [Rabin Karp](https://www.youtube.com/watch?v=H4VrKHVG5qI)
     - **EPI** 7.13 Find the First Occurrence of a Substring **String Pattern Matching Algorithm**
-
+* **Avoid Concatenating String At The Begining**
+    - **EPI** 9.4 Normalize Pathnames
 ##Problem Set
 ### Elements of Programming Interviews 2015
 - [x] 7.1 Interconvert Strings And Integers
