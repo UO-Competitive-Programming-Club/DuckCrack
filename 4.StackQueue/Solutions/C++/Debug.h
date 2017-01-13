@@ -16,6 +16,8 @@
 #include <algorithm>
 #include <random>
 #include <sstream>
+#include <exception>
+#include <stdexcept>
 
 /* arrays */
 
