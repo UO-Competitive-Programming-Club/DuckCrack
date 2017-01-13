@@ -8,7 +8,7 @@
 ####EPI
 - [x] 9.1 Implement A Stack With Max API
 - [x] 9.2 Evaluate RPN Experssions
-- [ ] 9.3 Test A String Over Bracket For Well-Formedness
+- [ ] 9.3 Test A String Over Brackets For Well-Formedness
 - [ ] 9.4 Normalize Pathnames
 - [ ] 9.5 Search A Postings List
 - [ ] 9.6 Compute Buildings With A Sunset View
