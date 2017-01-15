@@ -13,8 +13,8 @@
 - [ ] 9.5 Search A Postings List
 - [x] 9.6 Compute Buildings With A Sunset View
 - [x] 9.8 Implement a Circular Queue
-- [ ] 9.9 Implement a Queue Using Stacks
-- [ ] 9.10 Implement A Queue With Max API
+- [x] 9.9 Implement a Queue Using Stacks
+- [x] 9.10 Implement A Queue With Max API
 
 ####CCTI
 
