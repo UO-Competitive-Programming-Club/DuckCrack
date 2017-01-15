@@ -19,8 +19,7 @@
 ####CCTI
 
 ####Leetcode
-- [ ] 150. Evaluate Reverse Polish Notation
-- [ ] 385. Mini Parser QuestionEditorial Solution
+- [ ] 385. Mini Parser
 - [ ] 394. Decode String
 - [ ] 402. Remove K Digits
 - [ ] 456. 132 Pattern
