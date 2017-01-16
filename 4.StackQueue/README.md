@@ -26,6 +26,8 @@
 - [ ] 341. Flatten Nested List Iterator
 
 ####GeeksforGeeks
+- [x] [Next Greater Element](http://www.geeksforgeeks.org/next-greater-element/)
+- [ ] [Find maximum difference between nearest left and right smaller elements](http://www.geeksforgeeks.org/find-maximum-difference-between-nearest-left-and-right-smaller-elements/)
 - [ ] [Reverse a stack using recursion](http://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
 - [ ] [Design a stack that supports getMin() in O(1) time and O(1) extra space](http://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
 - [ ] [Length of the longest valid substring](http://www.geeksforgeeks.org/length-of-the-longest-valid-substring/)
@@ -35,8 +37,6 @@
 - [ ] [Find maximum sum possible equal sum of three stacks](http://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/)
 - [ ] [Find maximum difference between nearest left and right smaller elements](http://www.geeksforgeeks.org/find-maximum-difference-between-nearest-left-and-right-smaller-elements/)
 - [ ] [Find if an expression has duplicate parenthesis or not](http://www.geeksforgeeks.org/find-expression-duplicate-parenthesis-not/)
-- [ ] [Next Greater Element](http://www.geeksforgeeks.org/next-greater-element/)
-- [ ] [Next Smaller Element](http://www.geeksforgeeks.org/next-greater-element/)
 - [ ] [Iterative Tower of Hanoi](http://www.geeksforgeeks.org/iterative-tower-of-hanoi/)
 - [ ] [Find maximum of minimum for every window size in a given array](http://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)
 - [ ] [How to efficiently implement k stacks in a single array?](http://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)
