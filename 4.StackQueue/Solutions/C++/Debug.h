@@ -39,7 +39,7 @@ void PrintVector(const std::vector<T>& A) {
 }
 
 template <typename T>
-void print_matrix(const std::vector<std::vector<T>>& matrix) { 
+void PrintMatrix(const std::vector<std::vector<T>>& matrix) { 
     int height = matrix.size();
     for (int i = 0; i < height; i++) {
          PrintVector(matrix[i]);
@@ -145,4 +145,34 @@ std::shared_ptr<ListNode<T>> VectorToLinkedList(std::vector<T>& A) {
     }
 
 }
+
+/* stack and queue */
+template <typename T>
+void PrintStack(std::stack<T>& S) {
+    std::queue<T> temp_queue;
+    std::cout << "Stack:" << std::endl;
+    while (!S.empty()) {
+        temp_queue.push(S.top());
+        std::cout << "| " << S.top() << " |"<< std::endl;
+        S.pop();
+    }
+
+    while (!temp_queue.empty()) {
+        S.emplace(temp_queue.front());
+        temp_queue.pop();
+    }
+}
+
+template <typename T>
+std::stack<T> VectorToStack(const std::vector<T>& A) {
+    std::stack<T> S;
+    for (auto &n : A) {
+        S.emplace(n);
+    }
+    
+    return S;
+}
+
+
+
 #endif

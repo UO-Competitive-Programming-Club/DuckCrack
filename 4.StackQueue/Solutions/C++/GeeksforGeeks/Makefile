@@ -1,4 +1,4 @@
-TARGET=NextGreaterElement.cpp
+TARGET=ReverseStackUsingRecursion.cpp
 all:
 	g++ -std=c++14 -g $(TARGET)
 clean:
