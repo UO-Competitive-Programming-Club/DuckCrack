@@ -20,7 +20,7 @@
 - [ ] 3.1 Three In One
 - [ ] 3.3 Stack of Plates
 - [ ] 3.5 Sort Stack
-- [ ] 3.6 Animal Shelter
+- [x] 3.6 Animal Shelter
 
 ####Leetcode
 - [ ] 385. Mini Parser

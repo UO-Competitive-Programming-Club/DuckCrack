@@ -18,6 +18,7 @@
 #include <sstream>
 #include <exception>
 #include <stdexcept>
+#include <list>
 
 /* arrays */
 
