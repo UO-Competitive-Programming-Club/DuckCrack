@@ -150,17 +150,17 @@ std::shared_ptr<ListNode<T>> VectorToLinkedList(std::vector<T>& A) {
 /* stack and queue */
 template <typename T>
 void PrintStack(std::stack<T>& S) {
-    std::queue<T> temp_queue;
+    std::stack<T> temp_stack;
     std::cout << "Stack:" << std::endl;
     while (!S.empty()) {
-        temp_queue.push(S.top());
+        temp_stack.emplace(S.top());
         std::cout << "| " << S.top() << " |"<< std::endl;
         S.pop();
     }
 
-    while (!temp_queue.empty()) {
-        S.emplace(temp_queue.front());
-        temp_queue.pop();
+    while (!temp_stack.empty()) {
+        S.emplace(temp_stack.top());
+        temp_stack.pop();
     }
 }
 
