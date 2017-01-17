@@ -4,43 +4,61 @@ using namespace std;
 #define CAT 0
 #define DOG 1
 
-struct Animal {
-    int type;
+class Animal {
+public:
+    Animal(string name, int type) : name_(name), type_(type) {};
+    int get_type() { return type_; }
+
+private:
+    string name_;
+    int type_;
 };
 
 class AnimalShelter {
 public:
     void Enque(Animal animal) {
-        if (animal.type == CAT) {
-            cat_list.push_back({animal, order_++});
-        } else if (animal.type == DOG) {
-            dog_list.push_back({animal, order_++});
+        if (animal.get_type() == CAT) {
+
+            cat_list.emplace_back( AnimalNode{animal, order_++} );
+
+        } else if (animal.get_type() == DOG) {
+
+            dog_list.push_back( {animal, order_++} );
+
         }
     }
 
     Animal DequeAny() {
-        AnimalNode popped;
+        AnimalNode * popped;
         if (cat_list.front().order < dog_list.front().order) {
-            popped = cat_list.front();
+
+            popped = &(cat_list.front());
             cat_list.pop_front();
+
         } else {
-            popped = dog_list.front();
+
+            popped = &(dog_list.front());
             dog_list.pop_front();
+
         } 
 
-        return popped.animal;
+        return popped->animal;
     }
 
     Animal DequeueCat() {
+
         AnimalNode popped = cat_list.front();
         cat_list.pop_front();
         return popped.animal;
+
     }
 
     Animal DequeueDog() {
+
         AnimalNode popped = dog_list.front();
         dog_list.pop_front();
         return popped.animal;
+
     }
 
 private:

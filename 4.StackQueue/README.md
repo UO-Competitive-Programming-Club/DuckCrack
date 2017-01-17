@@ -18,8 +18,7 @@
 
 ####CCTI
 - [ ] 3.1 Three In One
-- [ ] 3.3 Stack of Plates
-- [ ] 3.5 Sort Stack
+- [x] 3.5 Sort Stack
 - [x] 3.6 Animal Shelter
 
 ####Leetcode
