@@ -1,4 +1,4 @@
-TARGET=ReverseStackUsingRecursion.cpp
+TARGET=HasDuplicateParenthesis.cpp
 all:
 	g++ -std=c++14 -g $(TARGET)
 clean:
