@@ -32,10 +32,9 @@
 - [x] [Length Of The Longest Valid Substring](http://www.geeksforgeeks.org/length-of-the-longest-valid-substring/)
 - [x] [Minimum number Of Bracket Reversals Needed To Make An Expression Balanced](http://www.geeksforgeeks.org/minimum-number-of-bracket-reversals-needed-to-make-an-expression-balanced/)
 - [x] [Find If An Expression Has Duplicate Parenthesis Or Not](http://www.geeksforgeeks.org/find-expression-duplicate-parenthesis-not/)
-- [ ] [Print ancestors Of A Given Binary Tree Node Without Recursion](http://www.geeksforgeeks.org/print-ancestors-of-a-given-binary-tree-node-without-recursion/)
-- [ ] [Design a stack With Operations On Middle Element](http://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/)
-- [ ] [Expression Evaluation](http://www.geeksforgeeks.org/expression-evaluation/)
-- [ ] [The Stock Span Problem](http://www.geeksforgeeks.org/the-stock-span-problem/)
+- [x] [The Stock Span Problem](http://www.geeksforgeeks.org/the-stock-span-problem/)
+
+#### Hard
 - [ ] [How To efficiently Implement K Stacks In A Single Array?](http://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)
 - [ ] [Find Maximum of Minimum For Every Window Size In A Given Array](http://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)
 - [ ] [Design A Stack That Supports getMin() In O(1) Time And O(1) Extra Space](http://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
