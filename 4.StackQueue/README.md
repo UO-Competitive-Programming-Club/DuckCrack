@@ -22,9 +22,9 @@
 - [x] 3.6 Animal Shelter
 
 ####Leetcode
-- [ ] 341. Flatten Nested List Iterator
+- [x] 341. Flatten Nested List Iterator
+- [x] 394. Decode String
 - [ ] 385. Mini Parser
-- [ ] 394. Decode String
 - [ ] 402. Remove K Digits
 - [ ] 456. 132 Pattern
 
