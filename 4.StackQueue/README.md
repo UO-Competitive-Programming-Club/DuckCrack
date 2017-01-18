@@ -24,7 +24,7 @@
 ####Leetcode
 - [x] 341. Flatten Nested List Iterator
 - [x] 394. Decode String
-- [ ] 385. Mini Parser
+- [x] 385. Mini Parser
 - [ ] 402. Remove K Digits
 - [ ] 456. 132 Pattern
 
