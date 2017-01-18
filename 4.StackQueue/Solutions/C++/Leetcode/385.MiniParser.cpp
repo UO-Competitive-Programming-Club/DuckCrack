@@ -28,5 +28,34 @@ public:
 };
 
 NestedInteger deserialize(string s) {
-	
+	stack<NestedInteger> nestint_stack;
+	nestint_stack.emplace(NestedInteger());
+	string single_ni;
+
+	for (size_t i = 0; i < s.size(); i++) {
+		if (s[i] == '[') {
+			nestint_stack.emplace(NestedInteger());
+		} else if (s[i] == ']' || s[i] == ',') {
+			if (single_ni.size() > 0) {
+				nestint_stack.top().add(NestedInteger(stoi(single_ni)));
+				single_ni.clear();
+			}
+			
+			if (s[i] == ']') {
+				NestedInteger closed_ni = nestint_stack.top();
+				nestint_stack.pop();
+				nestint_stack.top().add(closed_ni);
+			}
+			
+		} else if (isdigit(s[i]) || s[i] == '-') {
+			single_ni += s[i];
+		}
+	}
+
+    /* case where input is "124123" without squre bracket */ 
+	if (!single_ni.empty()) {
+		return NestedInteger(stoi(single_ni));
+	}
+
+	return nestint_stack.top().getList().front();
 }

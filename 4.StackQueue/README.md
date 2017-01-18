@@ -25,7 +25,7 @@
 - [x] 341. Flatten Nested List Iterator
 - [x] 394. Decode String
 - [x] 385. Mini Parser
-- [ ] 402. Remove K Digits
+- [x] 402. Remove K Digits
 - [ ] 456. 132 Pattern
 
 ####GeeksforGeeks
