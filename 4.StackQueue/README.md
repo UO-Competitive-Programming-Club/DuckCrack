@@ -1,9 +1,7 @@
 # Stack and Queue
 
 ## Must Know
-##### Basic Operations
-**How would you implement stack and queue from scratch?**
-
+#### Basic Operations
 **Stack**
 * Push **O(1)**
 * Pop **O(1)**
@@ -11,6 +9,8 @@
 **Queue**
 * Enque **O(1)**
 * Deque **O(1)**
+
+**How would you implement stack and queue from scratch?**
 
 ##Tricks
 **Queue Stack Interchange**
@@ -35,6 +35,9 @@
 - **GeeksforGeeks:** [Next Greater Element](http://www.geeksforgeeks.org/next-greater-element/)
 - **GeeksforGeeks:** [Find maximum difference between nearest left and right smaller elements](http://www.geeksforgeeks.org/find-maximum-difference-between-nearest-left-and-right-smaller-elements/)
 - **GeeksforGeeks:** [The Stock Span Problem](http://www.geeksforgeeks.org/the-stock-span-problem/)
+
+**Using Stack Simulating Recursion**
+See binary tree section
 
 ##Porblem set
 ####EPI
