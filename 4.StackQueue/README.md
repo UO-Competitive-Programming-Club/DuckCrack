@@ -26,7 +26,7 @@
 - [x] 394. Decode String
 - [x] 385. Mini Parser
 - [x] 402. Remove K Digits
-- [ ] 456. 132 Pattern
+- [x] 456. 132 Pattern
 
 ####GeeksforGeeks
 - [x] [Next Greater Element](http://www.geeksforgeeks.org/next-greater-element/)
