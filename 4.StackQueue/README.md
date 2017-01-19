@@ -1,8 +1,39 @@
 # Stack and Queue
 
 ## Must Know
+##### Basic Operations
+** How would you implement stack and queue from scratch? **
+**Stack**
+* Push **O(1)**
+* Pop **O(1)**
+
+**Queue**
+* Enque **O(1)**
+* Deque **O(1)**
 
 ##Tricks
+** Queue Stack Interchange **
+* **EPI** 9.9 Implement a Queue Using Stacks
+* Implement a Stack using Queue
+
+** Custom Data Structure **
+* **EPI** 9.1 Implement A Stack With Max API
+* **EPI** 9.10 Implement A Queue With Max API
+
+**  Parsing **
+* **EPI** 9.3 Test A String Over Brackets For Well-Formedness
+* **EPI** 9.2 Evaluate RPN Experssions
+* **Leetcode** 341. Flatten Nested List Iterator
+* **Leetcode** 394. Decode String
+* **Leetcode** 385. Mini Parser
+
+** Utilizing Stack Properties **
+- **EPI** 9.6 Compute Buildings With A Sunset View
+- **Leetcode** 402. Remove K Digits
+- **Leetcode** 456. 132 Pattern
+- **GeeksforGeeks** [Next Greater Element](http://www.geeksforgeeks.org/next-greater-element/)
+- **GeeksforGeeks** [Find maximum difference between nearest left and right smaller elements](http://www.geeksforgeeks.org/find-maximum-difference-between-nearest-left-and-right-smaller-elements/)
+- **GeeksforGeeks** [The Stock Span Problem](http://www.geeksforgeeks.org/the-stock-span-problem/)
 
 ##Porblem set
 ####EPI
