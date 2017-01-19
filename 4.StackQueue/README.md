@@ -17,9 +17,13 @@
 * **EPI:** 9.9 Implement a Queue Using Stacks
 * Implement a Stack using Queue
 
-**Custom Data Structure**
+**Bigger and Smaller**
 * **EPI:** 9.1 Implement A Stack With Max API
 * **EPI:** 9.10 Implement A Queue With Max API
+- **EPI:** 9.6 Compute Buildings With A Sunset View
+- **GeeksforGeeks:** [Next Greater Element](http://www.geeksforgeeks.org/next-greater-element/)
+- **GeeksforGeeks:** [Find maximum difference between nearest left and right smaller elements](http://www.geeksforgeeks.org/find-maximum-difference-between-nearest-left-and-right-smaller-elements/)
+- **GeeksforGeeks:** [The Stock Span Problem](http://www.geeksforgeeks.org/the-stock-span-problem/)
 
 **Parsing**
 * **EPI:** 9.3 Test A String Over Brackets For Well-Formedness
@@ -28,16 +32,8 @@
 * **Leetcode:** 394. Decode String
 * **Leetcode:** 385. Mini Parser
 
-**Utilizing Stack Properties**
-- **EPI:** 9.6 Compute Buildings With A Sunset View
-- **Leetcode:** 402. Remove K Digits
-- **Leetcode:** 456. 132 Pattern
-- **GeeksforGeeks:** [Next Greater Element](http://www.geeksforgeeks.org/next-greater-element/)
-- **GeeksforGeeks:** [Find maximum difference between nearest left and right smaller elements](http://www.geeksforgeeks.org/find-maximum-difference-between-nearest-left-and-right-smaller-elements/)
-- **GeeksforGeeks:** [The Stock Span Problem](http://www.geeksforgeeks.org/the-stock-span-problem/)
-
 **Using Stack Simulating Recursion**
-See binary tree section
+* See binary tree section
 
 ##Porblem set
 ####EPI
@@ -74,6 +70,7 @@ See binary tree section
 
 ## Hard
 ####GeeksforGeeks
+- [ ] [Largest Rectangular Area in a Histogram | Set 2](http://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
 - [ ] [How To efficiently Implement K Stacks In A Single Array?](http://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/)
 - [ ] [Find Maximum of Minimum For Every Window Size In A Given Array](http://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)
 - [ ] [Design A Stack That Supports getMin() In O(1) Time And O(1) Extra Space](http://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
