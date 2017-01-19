@@ -2,7 +2,8 @@
 
 ## Must Know
 ##### Basic Operations
-** How would you implement stack and queue from scratch? **
+**How would you implement stack and queue from scratch?**
+
 **Stack**
 * Push **O(1)**
 * Pop **O(1)**
