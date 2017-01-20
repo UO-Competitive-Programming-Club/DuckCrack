@@ -6,12 +6,12 @@
 
 ##Porblem set
 ####EPI
-- [ ] 10.1 Test If A Binary Tree Is Height Balanced
-- [ ] 10.2 Test If A Binary Tree Is Symmetric
-- [ ] 10.3 Compute The Lowest Common Ancestor In A Binary Tree
-- [ ] 10.4 Compute The LCA When Nodes Have Parent Pointers
-- [ ] 10.5 Sum The Root To Leaf Path 
-- [ ] 10.6 Find A Root To Leaf Path With Specified Sum 
+- [x] 10.1 Test If A Binary Tree Is Height Balanced
+- [x] 10.2 Test If A Binary Tree Is Symmetric
+- [x] 10.3 Compute The Lowest Common Ancestor In A Binary Tree
+- [x] 10.4 Compute The LCA When Nodes Have Parent Pointers
+- [x] 10.5 Sum The Root To Leaf Path 
+- [x] 10.6 Find A Root To Leaf Path With Specified Sum 
 - [ ] 10.7 Implement An Inorder Traversal Without Recursion
 - [ ] 10.8 Implement A Preorder Traversal Without Recursion
 - [ ] 10.9 Compute The Kth Node In An Inorder Traversal
@@ -33,13 +33,13 @@
 - [ ] 4.12 Paths With Sum
 
 ####Leetcode
+- [x] 100. Same Tree
+- [x] 111. Minimum Depth of Binary Tree
+- [x] 104. Maximum Depth of Binary Tree
 - [ ] 102. Binary Tree Level Order Traversal
 - [ ] 113. Path Sum II
 - [ ] 437. Path Sum III
 - [ ] 404. Sum of Left Leaves
-- [ ] 100. Same Tree
-- [ ] 111. Minimum Depth of Binary Tree
-- [ ] 104. Maximum Depth of Binary Tree
 - [ ] 108. Convert Sorted Array to Binary Search Tree
 - [ ] 106. Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] 114. Flatten Binary Tree to Linked List
