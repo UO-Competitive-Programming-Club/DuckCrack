@@ -36,9 +36,9 @@
 - [x] 100. Same Tree
 - [x] 111. Minimum Depth of Binary Tree
 - [x] 104. Maximum Depth of Binary Tree
-- [ ] 102. Binary Tree Level Order Traversal
-- [ ] 113. Path Sum II
+- [x] 113. Path Sum II
 - [ ] 437. Path Sum III
+- [ ] 102. Binary Tree Level Order Traversal
 - [ ] 404. Sum of Left Leaves
 - [ ] 108. Convert Sorted Array to Binary Search Tree
 - [ ] 106. Construct Binary Tree from Inorder and Postorder Traversal
