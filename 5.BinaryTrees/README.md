@@ -1,8 +1,22 @@
 # Binary Tree
 
 ## Must Know
+* How to traverse a binary tree
+* Space complexity of recursive algorithms
 
 ##Tricks
+**Recursion! Recursion!**
+* **EPI** 10.1 Test If A Binary Tree Is Height Balanced
+* **EPI** 10.2 Test If A Binary Tree Is Symmetric
+* **EPI** 10.3 Compute The Lowest Common Ancestor In A Binary Tree
+* **EPI** 10.4 Compute The LCA When Nodes Have Parent Pointers
+* **EPI** 10.5 Sum The Root To Leaf Path 
+* **EPI** 10.6 Find A Root To Leaf Path With Specified Sum 
+
+**Recursion to Iteration**
+* **EPI** 10.7 Implement An Inorder Traversal Without Recursion
+* **EPI** 10.8 Implement A Preorder Traversal Without Recursion
+
 
 ##Porblem set
 ####EPI
@@ -25,8 +39,8 @@
 - [ ] 10.17 Implement Locking In A Binary Tree
 
 ####CCTI
-- [ ] 4.3 List of Depths
 - [ ] 4.5 Validate BST
+- [ ] 4.3 List of Depths
 - [ ] 4.8 First Common Ancestor
 - [ ] 4.10 Check Subtree
 - [ ] 4.11 Random Node
@@ -38,18 +52,18 @@
 - [x] 104. Maximum Depth of Binary Tree
 - [x] 113. Path Sum II
 - [ ] 437. Path Sum III
-- [ ] 102. Binary Tree Level Order Traversal
-- [ ] 404. Sum of Left Leaves
+- [x] 129. Sum Root to Leaf Numbers
+- [x] 404. Sum of Left Leaves
+- [ ] 222. Count Complete Tree Nodes
 - [ ] 108. Convert Sorted Array to Binary Search Tree
 - [ ] 106. Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] 114. Flatten Binary Tree to Linked List
 - [ ] 116. Populating Next Right Pointers in Each Node
 - [ ] 337. House Robber III
-- [ ] 129. Sum Root to Leaf Numbers
 - [ ] 449. Serialize and Deserialize BST
 - [ ] 173. Binary Search Tree Iterator
+- [ ] 102. Binary Tree Level Order Traversal
 - [ ] 199. Binary Tree Right Side View
-- [ ] 222. Count Complete Tree Nodes
 - [ ] 230. Kth Smallest Element in a BST
 - [ ] 103. Binary Tree Zigzag Level Order Traversal
 - [ ] 145. Binary Tree Postorder Traversal
