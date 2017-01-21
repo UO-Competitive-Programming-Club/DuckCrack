@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "Number of C++ Solutions:"
+git ls-files *.cpp | wc -l
+echo ""
+
+echo "Number of Python Solutions:"
+git ls-files *.py | wc -l
+echo ""
+
+echo "Number of Java Solutions:"
+git ls-files *.java | wc -l
+echo ""
