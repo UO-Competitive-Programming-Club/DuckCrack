@@ -9,7 +9,7 @@ int HeightCompleteTree(TreeNode * root) {
     return HeightCompleteTree(root->left) + 1;
 }
 
-int countNodes(TreeNode* root) {
+int CountNodes(TreeNode* root) {
     if (!root) { return 0; }
     int cur_count = 1;
     TreeNode* next = root;
@@ -30,7 +30,6 @@ int countNodes(TreeNode* root) {
             /* update the current count */
             cur_count = (cur_count << 1) + 1;
         }
-        
     }
 
     /* while loop terminate when "next" is the LAST NODE */

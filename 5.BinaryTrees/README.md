@@ -16,7 +16,11 @@
 **Recursion to Iteration**
 * **EPI** 10.7 Implement An Inorder Traversal Without Recursion
 * **EPI** 10.8 Implement A Preorder Traversal Without Recursion
+* **Leetcode** 145. Binary Tree Postorder Traversal
 
+**Tree Construction**
+* **Leetcode** 108. Convert Sorted Array to Binary Search Tree
+* **Leetcode** 106. Construct Binary Tree from Inorder and Postorder Traversal
 
 ##Porblem set
 ####EPI
@@ -39,9 +43,8 @@
 - [ ] 10.17 Implement Locking In A Binary Tree
 
 ####CCTI
-- [ ] 4.5 Validate BST
-- [ ] 4.3 List of Depths
-- [ ] 4.8 First Common Ancestor
+- [x] 4.5 Validate BST
+- [ ] 4.9 BST Sequence
 - [ ] 4.10 Check Subtree
 - [ ] 4.11 Random Node
 - [ ] 4.12 Paths With Sum
@@ -55,8 +58,10 @@
 - [x] 129. Sum Root to Leaf Numbers
 - [x] 404. Sum of Left Leaves
 - [x] 222. Count Complete Tree Nodes
-- [ ] 108. Convert Sorted Array to Binary Search Tree
+
+- [x] 108. Convert Sorted Array to Binary Search Tree
 - [ ] 106. Construct Binary Tree from Inorder and Postorder Traversal
+
 - [ ] 114. Flatten Binary Tree to Linked List
 - [ ] 116. Populating Next Right Pointers in Each Node
 - [ ] 337. House Robber III
