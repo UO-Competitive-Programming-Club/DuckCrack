@@ -1,13 +1,24 @@
 #!/bin/bash
 
-echo "Number of C++ Solutions:"
-git ls-files *.cpp | wc -l
+CPP_FILE_COUNT=$(git ls-files *.cpp | wc -l)
+CPP_LINES_COUNT=$(git ls-files *.cpp |  xargs cat | wc -l)
+
+PYTHON_FILE_COUNT=$(git ls-files *.py | wc -l)
+PYTHON_LINES_COUNT=$(git ls-files *.py |  xargs cat | wc -l)
+
+JAVA_FILE_COUNT=$(git ls-files *.java | wc -l)
+JAVA_LINES_COUNT=$(git ls-files *.java |  xargs cat | wc -l)
+
+echo "Solution Counts:"
+echo "C++:    files = ${CPP_FILE_COUNT}"
+echo "        lines = ${CPP_LINES_COUNT}"
 echo ""
 
-echo "Number of Python Solutions:"
-git ls-files *.py | wc -l
+echo "Python: files = ${PYTHON_FILE_COUNT}"
+echo "        lines = ${PYTHON_LINES_COUNT}"
 echo ""
 
-echo "Number of Java Solutions:"
-git ls-files *.java | wc -l
-echo ""
+echo "Java:   files = ${JAVA_FILE_COUNT}"
+echo "        lines = ${JAVA_LINES_COUNT}"
+
+
