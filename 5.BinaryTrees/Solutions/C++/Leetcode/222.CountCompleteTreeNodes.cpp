@@ -1,67 +1,33 @@
 #include "../Debug.h"
 using namespace std;
 
- /* this is a very fast iterative solution essentially those helper functions can be
-  * iterative too, therefore the space complexity is O(1) */
-
-bool Isleaf(TreeNode * root);
-int RightMostNumber(TreeNode * root, int pre_val);
-int LeftMostNumber(TreeNode * root, int pre_val);
-int MiddleNumber(TreeNode * root, int pre_val);
-
-bool Isleaf(TreeNode * root) {
+/* since the tree is complete the height of the tree */
+/* is the height of the left most node */
+int HeightCompleteTree(TreeNode * root) {
     if (!root) { return 0; }
-    return (root->left == nullptr && root->right == nullptr);
-}
-    
-int LeftMostNumber(TreeNode * root, int pre_val) {
-    if (!root) { return 0; }
-    if (Isleaf(root)) { return pre_val; }
-    int cur_val = (pre_val << 1);
-    return LeftMostNumber(root->left, cur_val);
-}
-
-int RightMostNumber(TreeNode * root, int pre_val) {
-    if (!root) { return 0; }
-    if (Isleaf(root)) { return pre_val; }        
-    int cur_val = (pre_val << 1) + 1;
-    return RightMostNumber(root->right, cur_val);
-}
-
-int LeftMiddleNumber(TreeNode * root, int pre_val) {
-    return RightMostNumber(root->left, pre_val << 1);
-}
-
-int RightMiddleNumber(TreeNode * root, int pre_val) {
-    return LeftMostNumber(root->right, (pre_val << 1) + 1);
+    return HeightCompleteTree(root->left) + 1;
 }
 
 int countNodes(TreeNode* root) {
     if (!root) { return 0; }
-
-    int leftmost, rightmost, leftmiddle, rightmiddle, cur_count = 1;
+    int cur_count = 1;
     TreeNode* next = root;
-
-    do {
-        leftmost     = LeftMostNumber(next, cur_count);
-        rightmost    = RightMostNumber(next, cur_count);
-        leftmiddle   = LeftMiddleNumber(next, cur_count);
-        rightmiddle  = RightMiddleNumber(next, cur_count);
-
+    /* just like binary search, during each iteration we get a reference of the */
+    /* root of the subtree where the LAST NODE of the complete binary tree resides in */
+    /* while we are doing that we also calculate the current node count as if that node is */
+    /* the last node, the iteration terminates when the root of the subtree is the last node itself,
+     * by that time we know the count of the nodes already */
+    while (next->left || next->right) {
         /* this means the last node is at the left subtree */
-        if (leftmiddle < rightmost) {
+        if (HeightCompleteTree(next->left) > HeightCompleteTree(next->right)) {
             next = next->left;
             cur_count = cur_count << 1;
         } else {
-            if (leftmiddle > rightmiddle) {
-                next = next->left;
-                cur_count = cur_count << 1;
-            } else {
-                next = next->right;
-                cur_count = (cur_count << 1) + 1;
-            }
+            next = next->right;
+            cur_count = (cur_count << 1) + 1;
         }
-    } while (leftmost != leftmiddle && leftmost > rightmost);
-
-    return max(leftmost, rightmost);
+        
+    }
+    
+    return cur_count;
 }
