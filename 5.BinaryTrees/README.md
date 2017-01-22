@@ -54,7 +54,7 @@
 - [ ] 437. Path Sum III
 - [x] 129. Sum Root to Leaf Numbers
 - [x] 404. Sum of Left Leaves
-- [ ] 222. Count Complete Tree Nodes
+- [x] 222. Count Complete Tree Nodes
 - [ ] 108. Convert Sorted Array to Binary Search Tree
 - [ ] 106. Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] 114. Flatten Binary Tree to Linked List
