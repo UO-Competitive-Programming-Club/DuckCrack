@@ -1,6 +1,7 @@
 #include "../Debug.h"
 using namespace std;
 
+/* this solution beat 99% */ 
 /* since the tree is complete the height of the tree */
 /* is the height of the left most node */
 int HeightCompleteTree(TreeNode * root) {
@@ -18,16 +19,20 @@ int countNodes(TreeNode* root) {
     /* the last node, the iteration terminates when the root of the subtree is the last node itself,
      * by that time we know the count of the nodes already */
     while (next->left || next->right) {
-        /* this means the last node is at the left subtree */
+
+        /* this means the LAST NODE is at the left subtree */
         if (HeightCompleteTree(next->left) > HeightCompleteTree(next->right)) {
             next = next->left;
+            /* update the current count */
             cur_count = cur_count << 1;
         } else {
             next = next->right;
+            /* update the current count */
             cur_count = (cur_count << 1) + 1;
         }
         
     }
-    
+
+    /* while loop terminate when "next" is the LAST NODE */
     return cur_count;
 }
