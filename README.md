@@ -8,6 +8,7 @@ DuckCrack is a 15 weeks peer mentorship program leaded by UO Competitve Programm
 * Geeks for Geeks
 * HackerRank
 
+
 ## TODO:
 * Logisitics:
     - Logo  (Jan/2/2017)

@@ -43,11 +43,9 @@
 - [ ] 10.17 Implement Locking In A Binary Tree
 
 ####CCTI
-- [x] 4.5 Validate BST
-- [ ] 4.9 BST Sequence
+- [ ] 4.5 Validate BST
 - [ ] 4.10 Check Subtree
 - [ ] 4.11 Random Node
-- [ ] 4.12 Paths With Sum
 
 ####Leetcode
 - [x] 100. Same Tree
