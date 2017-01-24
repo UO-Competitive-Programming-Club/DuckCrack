@@ -43,7 +43,7 @@
 - [ ] 10.17 Implement Locking In A Binary Tree
 
 ####CCTI
-- [ ] 4.5 Validate BST
+- [x] 4.5 Validate BST
 - [ ] 4.10 Check Subtree
 - [ ] 4.11 Random Node
 
@@ -57,9 +57,9 @@
 - [x] 404. Sum of Left Leaves
 - [x] 222. Count Complete Tree Nodes
 - [x] 108. Convert Sorted Array to Binary Search Tree
+- [x] 116. Populating Next Right Pointers in Each Node
 - [ ] 106. Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] 114. Flatten Binary Tree to Linked List
-- [ ] 116. Populating Next Right Pointers in Each Node
 - [ ] 337. House Robber III
 - [ ] 449. Serialize and Deserialize BST
 - [ ] 173. Binary Search Tree Iterator
