@@ -43,7 +43,7 @@
 - [ ] 10.17 Implement Locking In A Binary Tree
 
 ####CCTI
-- [ ] 4.5 Validate BST
+- [x] 4.5 Validate BST
 - [ ] 4.10 Check Subtree
 - [ ] 4.11 Random Node
 
