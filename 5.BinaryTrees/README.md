@@ -56,12 +56,10 @@
 - [x] 129. Sum Root to Leaf Numbers
 - [x] 404. Sum of Left Leaves
 - [x] 222. Count Complete Tree Nodes
-
 - [x] 108. Convert Sorted Array to Binary Search Tree
-- [ ] 106. Construct Binary Tree from Inorder and Postorder Traversal
-
+- [x] 116. Populating Next Right Pointers in Each Node
+- [x] 106. Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] 114. Flatten Binary Tree to Linked List
-- [ ] 116. Populating Next Right Pointers in Each Node
 - [ ] 337. House Robber III
 - [ ] 449. Serialize and Deserialize BST
 - [ ] 173. Binary Search Tree Iterator
