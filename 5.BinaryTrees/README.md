@@ -30,9 +30,9 @@
 - [x] 10.4 Compute The LCA When Nodes Have Parent Pointers
 - [x] 10.5 Sum The Root To Leaf Path 
 - [x] 10.6 Find A Root To Leaf Path With Specified Sum 
-- [ ] 10.7 Implement An Inorder Traversal Without Recursion
-- [ ] 10.8 Implement A Preorder Traversal Without Recursion
-- [ ] 10.9 Compute The Kth Node In An Inorder Traversal
+- [x] 10.7 Implement An Inorder Traversal Without Recursion
+- [x] 10.8 Implement A Preorder Traversal Without Recursion
+- [x] 10.9 Compute The Kth Node In An Inorder Traversal
 - [ ] 10.10 Compute the Successor
 - [ ] 10.11 Implement An Inorder Traversal With O(1) Space
 - [ ] 10.12 Reconstruct A Binary Tree From Traversal Data
