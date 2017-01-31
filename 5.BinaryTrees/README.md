@@ -33,7 +33,7 @@
 - [x] 10.7 Implement An Inorder Traversal Without Recursion
 - [x] 10.8 Implement A Preorder Traversal Without Recursion
 - [x] 10.9 Compute The Kth Node In An Inorder Traversal
-- [ ] 10.10 Compute the Successor
+- [x] 10.10 Compute the Successor
 - [ ] 10.11 Implement An Inorder Traversal With O(1) Space
 - [ ] 10.12 Reconstruct A Binary Tree From Traversal Data
 - [ ] 10.13 Reconstruct A Binary Tree From A Preorder Traversal With Markers
@@ -59,7 +59,7 @@
 - [x] 108. Convert Sorted Array to Binary Search Tree
 - [x] 116. Populating Next Right Pointers in Each Node
 - [x] 106. Construct Binary Tree from Inorder and Postorder Traversal
-- [ ] 114. Flatten Binary Tree to Linked List
+- [x] 114. Flatten Binary Tree to Linked List
 - [ ] 337. House Robber III
 - [ ] 449. Serialize and Deserialize BST
 - [ ] 173. Binary Search Tree Iterator
