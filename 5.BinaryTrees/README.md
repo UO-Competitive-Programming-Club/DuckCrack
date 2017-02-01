@@ -34,7 +34,7 @@
 - [x] 10.8 Implement A Preorder Traversal Without Recursion
 - [x] 10.9 Compute The Kth Node In An Inorder Traversal
 - [x] 10.10 Compute the Successor
-- [ ] 10.11 Implement An Inorder Traversal With O(1) Space
+- [x] 10.11 Implement An Inorder Traversal With O(1) Space
 - [ ] 10.12 Reconstruct A Binary Tree From Traversal Data
 - [ ] 10.13 Reconstruct A Binary Tree From A Preorder Traversal With Markers
 - [ ] 10.14 Form A LinkedList From The Leaves of A Binary Tree
@@ -64,9 +64,8 @@
 - [x] 102. Binary Tree Level Order Traversal
 - [x] 199. Binary Tree Right Side View
 - [x] 103. Binary Tree Zigzag Level Order Traversal
-- [ ] 145. Binary Tree Postorder Traversal
+- [ ] 145. Binary Tree Iterative Postorder Traversal
 - [ ] 297. Serialize and Deserialize Binary Tree
-- [ ] 124. Binary Tree Maximum Path Sum
 
 
 ####GeeksforGeeks
