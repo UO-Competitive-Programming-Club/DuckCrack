@@ -61,12 +61,9 @@
 - [x] 106. Construct Binary Tree from Inorder and Postorder Traversal
 - [x] 114. Flatten Binary Tree to Linked List
 - [x] 337. House Robber III
-- [ ] 449. Serialize and Deserialize BST
-- [ ] 173. Binary Search Tree Iterator
-- [ ] 102. Binary Tree Level Order Traversal
-- [ ] 199. Binary Tree Right Side View
-- [ ] 230. Kth Smallest Element in a BST
-- [ ] 103. Binary Tree Zigzag Level Order Traversal
+- [x] 102. Binary Tree Level Order Traversal
+- [x] 199. Binary Tree Right Side View
+- [x] 103. Binary Tree Zigzag Level Order Traversal
 - [ ] 145. Binary Tree Postorder Traversal
 - [ ] 297. Serialize and Deserialize Binary Tree
 - [ ] 124. Binary Tree Maximum Path Sum
