@@ -64,6 +64,7 @@ we will be covering them later.
 ### Geeks for Geeks
 - [x] [Minimum characters to be added at front to make string palindrome](http://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)
 - [x] [Distinct strings with odd and even changes allowed](http://www.geeksforgeeks.org/distinct-strings-odd-even-changes-allowed/)
+- [x] [Write a program to print all permutations of a given string](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
 
 ### Others
 

@@ -1,4 +1,4 @@
-TARGET=DistinctStringsWithOddAndEvenChangesAllowed.cpp
+TARGET=AllPermutationsOfString.cpp
 all:
 	g++ -std=c++14 -g $(TARGET)
 clean:
