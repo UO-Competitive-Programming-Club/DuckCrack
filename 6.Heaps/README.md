@@ -6,8 +6,8 @@
 
 ##Porblem set
 ####EPI
-- [ ] 11.1 Merge Sorted Files
-- [ ] 11.2 Sort An Increasing-Decreasing Array
+- [x] 11.1 Merge Sorted Files
+- [x] 11.2 Sort An Increasing-Decreasing Array
 - [ ] 11.3 Sort An Almost Sorted Array
 - [ ] 11.4 Compute the K Cloest Stars
 - [ ] 11.5 Compute the Median of Online Data
@@ -26,7 +26,7 @@ No problems for this topic
 - [ ] 347. Top K Frequent Elements
 - [ ] 295. Find Median from Data Stream
 - [ ] 239. Sliding Window Maximum
-- [ ] 23. Merge k Sorted Lists
+- [x] 23. Merge k Sorted Lists
 
 
 ####GeeksforGeeks
