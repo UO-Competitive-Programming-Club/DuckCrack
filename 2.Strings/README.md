@@ -1,4 +1,10 @@
 # Strings
+
+[Lecture Slides](https://docs.google.com/presentation/d/1O4poJHHBoTp-NYIV5mnkRkVuMeTRl0jduEGbk3GUqp0/edit?usp=sharing)
+
+This section will be mostly hands since there are isn't much to teach, for string problem
+it is really about write clean code and handle all the edge cases.
+
 String is just a special type of array that takes characters as its elemets, but since
 the size of the acsii table has only 256 entries, so lots of problems can be solved using
 constant memory. Below are the things you must know for solving string related problem, note 
@@ -58,6 +64,7 @@ we will be covering them later.
 ### Geeks for Geeks
 - [x] [Minimum characters to be added at front to make string palindrome](http://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)
 - [x] [Distinct strings with odd and even changes allowed](http://www.geeksforgeeks.org/distinct-strings-odd-even-changes-allowed/)
+- [x] [Write a program to print all permutations of a given string](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
 
 ### Others
 

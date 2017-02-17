@@ -1,4 +1,7 @@
 # Linked Lists
+
+[Lecture Slides](https://docs.google.com/presentation/d/18C2l7BRfVYwotd7JxfpyB5bF_lbz4AAj8c0rYdRAjeg/edit#slide=id.g1c9cde1a29_0_190)
+
 A Linked List is a data structure that contains a sequence of nodes such that each
 node contains an object and a reference to the next node in the list, the first node
 is refered as the *head* and the last is referred to as the *tail*. There are two 

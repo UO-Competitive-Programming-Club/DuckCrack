@@ -7,4 +7,3 @@ struct TreeLinkNode {
 	TreeLinkNode *next;
 };
 
-
