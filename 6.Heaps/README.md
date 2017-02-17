@@ -8,8 +8,8 @@
 ####EPI
 - [x] 11.1 Merge Sorted Files
 - [x] 11.2 Sort An Increasing-Decreasing Array
-- [ ] 11.3 Sort An Almost Sorted Array
-- [ ] 11.4 Compute the K Cloest Stars
+- [x] 11.3 Sort An Almost Sorted Array
+- [x] 11.4 Compute the K Cloest Stars
 - [ ] 11.5 Compute the Median of Online Data
 - [ ] 11.6 Compute The K largest Elements in a Max-Heap
 - [ ] 11.7 Implement a Stack API using a Heap
