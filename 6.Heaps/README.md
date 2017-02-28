@@ -11,17 +11,18 @@
 - [x] 11.3 Sort An Almost Sorted Array
 - [x] 11.4 Compute the K Cloest Stars
 - [x] 11.5 Compute the Median of Online Data
-- [ ] 11.6 Compute The K largest Elements in a Max-Heap
+- [x] 11.6 Compute The K largest Elements in a Max-Heap
 - [ ] 11.7 Implement a Stack API using a Heap
 
 ####CCTI
 No problems for this topic 
 
 ####Leetcode
+- [x] 263. Ugly Number
+- [ ] 264. Ugly Number II
 - [ ] 313. Super Ugly Number
 - [ ] 378. Kth Smallest Element in a Sorted Matrix
 - [ ] 373. Find K Pairs with Smallest Sums
-- [ ] 264. Ugly Number II
 - [ ] 355. Design Twitter
 - [ ] 347. Top K Frequent Elements
 - [ ] 295. Find Median from Data Stream
