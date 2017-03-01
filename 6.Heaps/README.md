@@ -21,7 +21,7 @@ No problems for this topic
 - [x] 263. Ugly Number
 - [x] 264. Ugly Number II
 - [ ] 313. Super Ugly Number
-- [ ] 378. Kth Smallest Element in a Sorted Matrix
+- [x] 378. Kth Smallest Element in a Sorted Matrix
 - [x] 373. Find K Pairs with Smallest Sums
 - [ ] 355. Design Twitter
 - [ ] 347. Top K Frequent Elements
