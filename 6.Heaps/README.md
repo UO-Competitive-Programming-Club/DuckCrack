@@ -20,9 +20,9 @@ No problems for this topic
 ####Leetcode
 - [x] 263. Ugly Number
 - [x] 264. Ugly Number II
-- [x] 313. Super Ugly Number
+- [ ] 313. Super Ugly Number
 - [ ] 378. Kth Smallest Element in a Sorted Matrix
-- [ ] 373. Find K Pairs with Smallest Sums
+- [x] 373. Find K Pairs with Smallest Sums
 - [ ] 355. Design Twitter
 - [ ] 347. Top K Frequent Elements
 - [ ] 295. Find Median from Data Stream
