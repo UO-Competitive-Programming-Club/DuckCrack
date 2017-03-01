@@ -21,6 +21,7 @@
     - **Leetcode** 373. Find K Pairs with Smallest Sum (Must practice) 
     - **Leetcode** 378. Kth Smallest Element in a Sorted Matrix
     - **Leetcode** 264. Ugly Number II
+    - **[Connect n ropes with minimum cost](http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)**
 
 ##Porblem set
 ####EPI
@@ -47,8 +48,8 @@ No problems for this topic
 
 
 ####GeeksforGeeks
+- [x] [Connect n ropes with minimum cost](http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 - [ ] [Check if a given Binary Tree is Heap](http://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-heap/)
 - [ ] [How to check if a given array represents a Binary Heap?](http://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/)
 - [ ] [Print all elements in sorted order from row and column wise sorted matrix](http://www.geeksforgeeks.org/print-elements-sorted-order-row-column-wise-sorted-matrix/)
 - [ ] [Sort numbers stored on different machines](http://www.geeksforgeeks.org/sort-numbers-stored-on-different-machines/)
-- [ ] [Connect n ropes with minimum cost](http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
