@@ -38,6 +38,8 @@ vector<pair<int, int>> kSmallestPairs(vector<int>& A, vector<int>& B, int k) {
 			});
 		}
 
+        /* case case handling */
+        /* https://discuss.leetcode.com/topic/50481/clean-16ms-c-o-n-space-o-klogn-time-solution-using-priority-queue/4 */
 		if (cannidate.A_idx == 0 && cannidate.B_idx + 1 < (int) B.size()) {
 			int new_B_idx = cannidate.B_idx + 1;
 			min_heap.emplace(PairEntry {
