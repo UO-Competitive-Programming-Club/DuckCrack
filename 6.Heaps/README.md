@@ -43,7 +43,7 @@ No problems for this topic
 - [x] 373. Find K Pairs with Smallest Sums
 - [x] 23. Merge k Sorted Lists
 - [x] 347. Top K Frequent Elements
-- [ ] 355. Design Twitter
+- [x] 355. Design Twitter
 - [ ] 239. Sliding Window Maximum
 
 
