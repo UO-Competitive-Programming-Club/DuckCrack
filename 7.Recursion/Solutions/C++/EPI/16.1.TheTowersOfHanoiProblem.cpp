@@ -4,9 +4,8 @@ using namespace std;
 
 const int kNumPegs = 3;
 
-void ComputeTowerHanoiSteps(int num_rings_to_move,
-                            vector<stack<int>>& pegs, int from_peg,
-                            int to_peg, int use_peg) {
+void ComputeTowerHanoiSteps(int num_rings_to_move, vector<stack<int>>& pegs, 
+                            int from_peg, int to_peg, int use_peg) {
 
     if (num_rings_to_move > 0) {
         ComputeTowerHanoiSteps(num_rings_to_move - 1, pegs, from_peg, use_peg, to_peg);

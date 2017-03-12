@@ -1,7 +1,6 @@
 #include "../Debug.h"
 using namespace std;
 
-
 /* edge cases: 
  *      you cannot follow yourself
  * */
