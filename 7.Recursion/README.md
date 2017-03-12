@@ -7,7 +7,7 @@
 ##Porblem set
 ####EPI
 - [x] 16.1 The Towers of Hanoi Problem
-- [ ] 16.2 Generate All Non-attacking Placements of n-Queues
+- [x] 16.2 Generate All Non-attacking Placements of n-Queues
 - [ ] 16.3 Generate Permutations
 - [ ] 16.4 Generate the Power Set
 - [ ] 16.5 Generate All Subsets of Size K
