@@ -2,10 +2,10 @@
 
 ## Must Know
 
-##Tricks
+## Tricks
 
-##Porblem set
-####EPI
+## Porblem set
+#### EPI
 - [x] 16.1 The Towers of Hanoi Problem
 - [x] 16.2 Generate All Non-attacking Placements of n-Queues
 - [x] 16.3 Generate Permutations
@@ -18,10 +18,10 @@
 - [ ] 16.10 Compute a Gray Code
 - [ ] 16.11 Compute the Diameter of a Tree
 
-####CCTI
+#### CCTI
 No problems for this topic 
 
-####Leetcode
+#### Leetcode
 - [ ] 401. Binary Watch
 - [ ] 211. Add and Search Word - Data structure design
 - [ ] 526. Beautiful Arrangement
@@ -49,7 +49,7 @@ No problems for this topic
 - [ ] 79. Word Search
 
 
-####GeeksforGeeks
+#### GeeksforGeeks
 - [ ] [Remove Invalid Parentheses](http://www.geeksforgeeks.org/remove-invalid-parentheses/)
 - [ ] [Find shortest safe route in a path with landmines](http://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/)
 - [ ] [Longest Possible Route in a Matrix with Hurdles](http://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/)
