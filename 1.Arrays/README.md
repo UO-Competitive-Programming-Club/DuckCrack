@@ -120,7 +120,6 @@ Check box indicate if a solution is availible
 - [x] 11. Container With Most Water 
 - [x] 55. Jump Game
 - [x] 289. Game of Life Question
-- [x] 128. Longest Consecutive Sequence
 
 ### Geeks for Geeks
 - [x] [Find Maximum Sum Strictly Increasing Subarray](http://www.geeksforgeeks.org/find-maximum-sum-strictly-increasing-subarray/)
@@ -132,3 +131,4 @@ Check box indicate if a solution is availible
 - [ ] [Cound Negative Intergers in Sorted Matrix](https://www.youtube.com/watch?v=5dJSZLmDsxk)
 
 ## Hard
+- [x] LeetCode: 128. Longest Consecutive Sequence
