@@ -53,6 +53,7 @@
 #### CCTI
 
 #### Leetcode
+- [x] [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 - [x] [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
 - [x] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
 
