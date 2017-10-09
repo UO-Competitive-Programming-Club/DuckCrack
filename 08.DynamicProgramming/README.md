@@ -7,7 +7,7 @@
 - [Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)
 - [Subset Sum](https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4)
 - [Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [Coin Changing](https://www.youtube.com/watch?annotation_id=annotation_2195265949&feature=iv&src_vid=Y0ZqKpToTic&v=NJasGk)
+- [Coin Changing](https://www.youtube.com/watch?v=NJasGk)
 - [Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)
 - [Longest Palindromic Subsequence](https://www.youtube.com/watch?v=_nCsPn7_OgI&index=9&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -54,7 +54,7 @@
 
 #### Leetcode
 - [x] [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
-- [ ] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
+- [x] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
 
 
 #### GeeksforGeeks
