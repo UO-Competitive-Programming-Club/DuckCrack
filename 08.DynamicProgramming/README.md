@@ -1,4 +1,4 @@
-# Heap 
+# Dynamic Programming 
 
 ## Must Know
 #### Classical (Video)
@@ -56,6 +56,8 @@
 - [x] [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 - [x] [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
 - [x] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
+- [x] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+- [x] [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
 
 
 #### GeeksforGeeks
