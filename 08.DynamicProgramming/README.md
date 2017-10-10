@@ -11,7 +11,7 @@
 - [x] [Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)
 - [x] [Longest Palindromic Subsequence](https://www.youtube.com/watch?v=_nCsPn7_OgI&index=9&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [ ] [Coin Changing Number of ways](https://www.youtube.com/watch?v=_fgjrs570YE&index=10&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [x] [Coin Changing Number of ways](https://www.youtube.com/watch?v=_fgjrs570YE&index=10&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk&index=11&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Weighted Job Scheduling](https://www.youtube.com/watch?v=cr6Ip0J9izc&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=12)
 - [ ] [Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -45,6 +45,9 @@
 - [ ] [Maximum Subsquare With Sides as X](https://www.youtube.com/watch?v=vi_1eHCsR9A&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=42)
 
 ## Tricks
+### Count Number of Ways
+- [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
+- [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
 
 ## Porblem set
 
