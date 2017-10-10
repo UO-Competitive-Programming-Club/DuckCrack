@@ -12,7 +12,7 @@
 - [x] [Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)
 - [x] [Longest Palindromic Subsequence](https://www.youtube.com/watch?v=_nCsPn7_OgI&index=9&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Coin Changing Number of ways](https://www.youtube.com/watch?v=_fgjrs570YE&index=10&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [ ] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk)
+- [x] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk)
 - [ ] [Weighted Job Scheduling](https://www.youtube.com/watch?v=cr6Ip0J9izc&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=12)
 - [ ] [Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Cutting Rod](https://www.youtube.com/watch?v=IRwVmTmN6go&index=14&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -66,4 +66,4 @@
 
 
 #### GeeksforGeeks
-- [ ] [Minimum Ways of Changing Coins](http://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
+- [x] [Minimum Ways of Changing Coins](http://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
