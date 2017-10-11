@@ -63,6 +63,7 @@
 - [x] [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
 - [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
 - [x] [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/)
+- [x] [139. Word Break](https://leetcode.com/problems/word-break/description/)
 
 
 #### GeeksforGeeks
@@ -71,7 +72,6 @@
     - This problem is a variation of the "Longest Increasing Subsequence" problem.
 - [x] [Egg Dropping Problem](http://www.geeksforgeeks.org/dynamic-programming-set-11-egg-dropping-puzzle/)
 - [x] [Cutting Rod](http://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/)
-- [x] [Word Break](http://www.geeksforgeeks.org/dynamic-programming-set-32-word-break-problem/)
 - [ ] [*Partition Problem](http://www.geeksforgeeks.org/dynamic-programming-set-18-partition-problem/)
 - [ ] [*Minimum Partition](http://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
 - [ ] [*Box Stacking](http://www.geeksforgeeks.org/dynamic-programming-set-21-box-stacking-problem/)
