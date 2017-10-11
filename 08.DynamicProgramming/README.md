@@ -18,6 +18,7 @@
 - [x] [Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Cutting Rod](https://www.youtube.com/watch?v=IRwVmTmN6go&index=14&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Word Break](https://www.youtube.com/watch?v=WepWFGxiwRs&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=19)
+- [x] [Subset Sum Problem](https://www.youtube.com/results?search_query=+Partition+Equal+Subset+Sum)
 - [ ] [*Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Longest Comon Substring](https://www.youtube.com/watch?v=BysNXJHzCEs&index=16&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -64,6 +65,8 @@
 - [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
 - [x] [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/)
 - [x] [139. Word Break](https://leetcode.com/problems/word-break/description/)
+- [ ] [140. Word Break II ](https://leetcode.com/problems/word-break-ii/description/)
+- [x] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 
 
 #### GeeksforGeeks
@@ -72,11 +75,9 @@
     - This problem is a variation of the "Longest Increasing Subsequence" problem.
 - [x] [Egg Dropping Problem](http://www.geeksforgeeks.org/dynamic-programming-set-11-egg-dropping-puzzle/)
 - [x] [Cutting Rod](http://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/)
-- [ ] [*Partition Problem](http://www.geeksforgeeks.org/dynamic-programming-set-18-partition-problem/)
 - [ ] [*Minimum Partition](http://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
 - [ ] [*Box Stacking](http://www.geeksforgeeks.org/dynamic-programming-set-21-box-stacking-problem/)
 - [ ] [Longest Path in Matrix](http://www.geeksforgeeks.org/find-the-longest-path-in-a-matrix-with-given-constraints/)
-- [ ] [Subset Sum](http://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/)
 - [ ] [Optimal Strategy for a Game](http://www.geeksforgeeks.org/dynamic-programming-set-31-optimal-strategy-for-a-game/)
 - [ ] [Boolean Parenthesization](http://www.geeksforgeeks.org/dynamic-programming-set-37-boolean-parenthesization-problem/)
 - [ ] [Maximum Product Cutting Rod](http://www.geeksforgeeks.org/dynamic-programming-set-36-cut-a-rope-to-maximize-product/)
