@@ -1,6 +1,13 @@
 # Dynamic Programming 
+Dynamic programming is beautiful because we usually want to solve problem backwards.
+There is a 5 mins Ted talk discussing [Working backward to solve problems](https://www.youtube.com/watch?v=v34NqCbAA1c)
 
 ## Must Know
+### 3 Levels of a DP
+* Can this be done? [Or] What is the minimum cost of accomplishing this?
+* How many solutions are there?
+* Enumerate all the solutions?
+
 #### Classical (Video)
 - [x] **[0/1 Knapsack Problem](https://www.youtube.com/watch?v=8LusJS5-AGo&index=1&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Subset Sum](https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4)
@@ -49,9 +56,7 @@
 - [ ] [Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
 ## Tricks
-### Count Number of Ways
-- [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
-- [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
+
 
 ## Porblem set
 
