@@ -3,7 +3,7 @@ Dynamic programming is beautiful because we usually want to solve problem backwa
 There is a 5 mins Ted talk discussing [Working backward to solve problems](https://www.youtube.com/watch?v=v34NqCbAA1c)
 
 ## Must Know
-### 3 Levels of a DP
+### 3 Levels of a DP problem
 * Can this be done? [Or] What is the minimum cost of accomplishing this?
 * How many solutions are there?
 * Enumerate all the solutions?
@@ -16,7 +16,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk)
 - [x] **[Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)**
     - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
-    - [ ] [Counting Boolean Parenthesizations](https://www.youtube.com/watch?v=oyj9tRZhmis)
+    - [x] [Counting Boolean Parenthesizations](https://www.youtube.com/watch?v=oyj9tRZhmis)
 - [x] **[Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Number of Longest Increasing Subsequence](https://www.youtube.com/watch?v=SFCiuIJu17Y)
     - [x] [Maximum Sum Increasing Subsequence](https://www.youtube.com/watch?v=99ssGWhLPUE&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=28)
