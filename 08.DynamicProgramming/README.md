@@ -17,9 +17,9 @@
     - [ ] [Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [ ] [Building Bridges](https://www.youtube.com/watch?v=w6tSmS86C4w)
     - [ ] [Maximum Length of Chain of Pairs](https://www.youtube.com/watch?v=v-HIXptqM3Q)
-- [ ] **[Longest Common Substring](https://www.youtube.com/watch?v=BysNXJHzCEs&index=16&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
-- [x] [Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)
+- [x] [Longest Common Substring](https://www.youtube.com/watch?v=BysNXJHzCEs&index=16&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Longest Common Subsequence](https://www.youtube.com/watch?v=NnD96abizww&index=2&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [x] [Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)
 - [x] [Longest Palindromic Subsequence](https://www.youtube.com/watch?v=_nCsPn7_OgI&index=9&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Cutting Rod](https://www.youtube.com/watch?v=IRwVmTmN6go&index=14&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -75,7 +75,6 @@
 #### GeeksforGeeks
 - [x] [Minimum Ways of Changing Coins](http://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
 - [x] [Weighted Job Scheduling](http://www.geeksforgeeks.org/weighted-job-scheduling/) (Largest Increasing Subsequence)
-    - This problem is a variation of the "Longest Increasing Subsequence" problem.
 - [x] [Egg Dropping Problem](http://www.geeksforgeeks.org/dynamic-programming-set-11-egg-dropping-puzzle/)
 - [x] [Cutting Rod](http://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/)
 - [ ] [Maximum Sum Increasing Subsequence](http://www.geeksforgeeks.org/dynamic-programming-set-14-maximum-sum-increasing-subsequence/)
