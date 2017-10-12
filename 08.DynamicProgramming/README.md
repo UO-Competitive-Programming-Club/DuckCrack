@@ -10,8 +10,7 @@
     - [x] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk)
 - [x] **[Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)**
     - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
-- [ ] [Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [x] [Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [x] **[Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Number of Longest Increasing Subsequence](https://www.youtube.com/watch?v=SFCiuIJu17Y)
     - [ ] [Maximum Sum Increasing Subsequence](https://www.youtube.com/watch?v=99ssGWhLPUE&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=28)
     - [x] [Weighted Job Scheduling](https://www.youtube.com/watch?v=cr6Ip0J9izc&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=12)
@@ -45,6 +44,7 @@
 - [ ] [Sum Query in 2D immutable Array](https://www.youtube.com/watch?v=PwDqpOMwg6U&index=40&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Count Number of Binary Tree Possible GIven Preorder Sequence Length](https://www.youtube.com/watch?v=RUB5ZPfKcnY&index=41&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Maximum Subsquare With Sides as X](https://www.youtube.com/watch?v=vi_1eHCsR9A&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=42)
+- [ ] [Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
 ## Tricks
 ### Count Number of Ways
