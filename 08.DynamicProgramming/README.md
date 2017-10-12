@@ -2,6 +2,7 @@
 
 ## Must Know
 #### Classical (Video)
+- [ ] [useful](https://people.cs.clemson.edu/~bcdean/dp_practice/)
 - [x] [0/1 Knapsack Problem](https://www.youtube.com/watch?v=8LusJS5-AGo&index=1&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Subset Sum](https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4)
 - [x] [Longest Common Subsequence](https://www.youtube.com/watch?v=NnD96abizww&index=2&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -18,10 +19,9 @@
 - [x] [Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Cutting Rod](https://www.youtube.com/watch?v=IRwVmTmN6go&index=14&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Word Break](https://www.youtube.com/watch?v=WepWFGxiwRs&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=19)
-- [x] [Subset Sum Problem](https://www.youtube.com/results?search_query=+Partition+Equal+Subset+Sum)
-- [ ] [*Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [x] [Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [ ] [Longest Comon Substring](https://www.youtube.com/watch?v=BysNXJHzCEs&index=16&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [ ] [Longest Common Substring](https://www.youtube.com/watch?v=BysNXJHzCEs&index=16&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
 - [ ] [Text Justification](https://www.youtube.com/watch?v=RORuwHiblPc&index=18&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Minimum Cost Path](https://www.youtube.com/watch?v=lBRtnuxg-gU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=20)
@@ -75,8 +75,7 @@
     - This problem is a variation of the "Longest Increasing Subsequence" problem.
 - [x] [Egg Dropping Problem](http://www.geeksforgeeks.org/dynamic-programming-set-11-egg-dropping-puzzle/)
 - [x] [Cutting Rod](http://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/)
-- [ ] [*Minimum Partition](http://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
-- [ ] [*Box Stacking](http://www.geeksforgeeks.org/dynamic-programming-set-21-box-stacking-problem/)
+- [x] [Minimum Partition](http://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
 - [ ] [Longest Path in Matrix](http://www.geeksforgeeks.org/find-the-longest-path-in-a-matrix-with-given-constraints/)
 - [ ] [Optimal Strategy for a Game](http://www.geeksforgeeks.org/dynamic-programming-set-31-optimal-strategy-for-a-game/)
 - [ ] [Boolean Parenthesization](http://www.geeksforgeeks.org/dynamic-programming-set-37-boolean-parenthesization-problem/)
