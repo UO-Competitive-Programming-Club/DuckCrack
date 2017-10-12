@@ -2,7 +2,6 @@
 
 ## Must Know
 #### Classical (Video)
-- [ ] [useful](https://people.cs.clemson.edu/~bcdean/dp_practice/)
 - [x] **[0/1 Knapsack Problem](https://www.youtube.com/watch?v=8LusJS5-AGo&index=1&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Subset Sum](https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4)
     - [x] [Coin Changing](https://www.youtube.com/watch?v=NJasGk)
