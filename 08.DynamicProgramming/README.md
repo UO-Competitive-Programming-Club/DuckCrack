@@ -3,15 +3,15 @@
 ## Must Know
 #### Classical (Video)
 - [ ] [useful](https://people.cs.clemson.edu/~bcdean/dp_practice/)
-- [x] [0/1 Knapsack Problem](https://www.youtube.com/watch?v=8LusJS5-AGo&index=1&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [x] **[0/1 Knapsack Problem](https://www.youtube.com/watch?v=8LusJS5-AGo&index=1&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Subset Sum](https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4)
-- [x] [Longest Common Subsequence](https://www.youtube.com/watch?v=NnD96abizww&index=2&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [x] [Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)
-    - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
-- [ ] [Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [x] [Coin Changing](https://www.youtube.com/watch?v=NJasGk)
+    - [x] [Coin Changing](https://www.youtube.com/watch?v=NJasGk)
     - [x] [Coin Changing Number of ways](https://www.youtube.com/watch?v=_fgjrs570YE&index=10&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk)
+- [x] [Longest Common Subsequence](https://www.youtube.com/watch?v=NnD96abizww&index=2&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [x] **[Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)**
+    - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
+- [ ] [Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [ ] [Maximum Sum Increasing Subsequence](https://www.youtube.com/watch?v=99ssGWhLPUE&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=28)
     - [x] [Weighted Job Scheduling](https://www.youtube.com/watch?v=cr6Ip0J9izc&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=12)
