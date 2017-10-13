@@ -24,9 +24,6 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [ ] [Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [ ] [Building Bridges](https://www.youtube.com/watch?v=w6tSmS86C4w)
     - [ ] [Maximum Length of Chain of Pairs](https://www.youtube.com/watch?v=v-HIXptqM3Q)
-- [ ] **[Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
-    - [ ] [Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
-    - [ ] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
 - [x] [Longest Common Substring](https://www.youtube.com/watch?v=BysNXJHzCEs&index=16&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Longest Common Subsequence](https://www.youtube.com/watch?v=NnD96abizww&index=2&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)
@@ -55,6 +52,9 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [ ] [Count Number of Binary Tree Possible GIven Preorder Sequence Length](https://www.youtube.com/watch?v=RUB5ZPfKcnY&index=41&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Maximum Subsquare With Sides as X](https://www.youtube.com/watch?v=vi_1eHCsR9A&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=42)
 - [ ] [Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [ ] **[Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
+    - [ ] [Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+    - [ ] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
 
 ## Tricks
 
@@ -76,7 +76,8 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [139. Word Break](https://leetcode.com/problems/word-break/description/)
 - [ ] [140. Word Break II ](https://leetcode.com/problems/word-break-ii/description/)
 - [x] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
-- [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+- [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+- [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 
 
 #### GeeksforGeeks

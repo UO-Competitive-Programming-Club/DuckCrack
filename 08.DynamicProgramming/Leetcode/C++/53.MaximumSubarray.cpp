@@ -5,19 +5,18 @@
 using namespace std;
 
 int maxSubArray(vector<int>& nums) {
-    if (nums.empty()) {
-        return 0;
+    int single_max = *max_element(nums.begin(), nums.end()),
+        cur_max = 0,
+        result = 0;
+    
+    if (single_max <= 0) {
+        return single_max;
     }
-
-    int res = nums.front(),
-        cur = 0;
-
-    int alen = nums.size();
-    for (int i = 1; i < alen; i++) {
-        int n = nums[i];
-        cur = (n + cur) < 0 ? 0: n + cur;
-        res = max(res, cur);
+    
+    for (int n: nums) {
+        (cur_max + n < 0) ? cur_max = 0 : cur_max += n;
+        result = max(result, cur_max);
     }
-    return res;
+    
+    return result;
 }
-
