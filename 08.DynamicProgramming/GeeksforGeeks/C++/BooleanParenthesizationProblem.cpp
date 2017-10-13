@@ -67,5 +67,5 @@ int CountParenthesization(vector<char> symbols, vector<char> operators) {
         }
     }
 
-    return T[slen - 1][slen - 1];
+    return T[0][slen - 1];
 }
