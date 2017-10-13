@@ -24,6 +24,9 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [ ] [Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [ ] [Building Bridges](https://www.youtube.com/watch?v=w6tSmS86C4w)
     - [ ] [Maximum Length of Chain of Pairs](https://www.youtube.com/watch?v=v-HIXptqM3Q)
+- [ ] **[Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
+    - [ ] [Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+    - [ ] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
 - [x] [Longest Common Substring](https://www.youtube.com/watch?v=BysNXJHzCEs&index=16&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Longest Common Subsequence](https://www.youtube.com/watch?v=NnD96abizww&index=2&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)
@@ -31,8 +34,6 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Cutting Rod](https://www.youtube.com/watch?v=IRwVmTmN6go&index=14&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Word Break](https://www.youtube.com/watch?v=WepWFGxiwRs&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=19)
-- [ ] [Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [ ] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
 - [ ] [Text Justification](https://www.youtube.com/watch?v=RORuwHiblPc&index=18&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Minimum Cost Path](https://www.youtube.com/watch?v=lBRtnuxg-gU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=20)
 - [ ] [Minimum Jump to Reach End](https://www.youtube.com/watch?v=cETfFsSTGJI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=21)
@@ -75,6 +76,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [139. Word Break](https://leetcode.com/problems/word-break/description/)
 - [ ] [140. Word Break II ](https://leetcode.com/problems/word-break-ii/description/)
 - [x] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+- [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 
 
 #### GeeksforGeeks
