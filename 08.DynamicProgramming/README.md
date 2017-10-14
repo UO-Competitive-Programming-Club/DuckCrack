@@ -80,6 +80,9 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
 - [x] [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
 - [x] [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
+- [x] [650. 2 Keys Keyboard](https://leetcode.com/tag/dynamic-programming/)
+- [x] [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
+- [ ] [646. Maxium Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 - [ ] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 - [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 
