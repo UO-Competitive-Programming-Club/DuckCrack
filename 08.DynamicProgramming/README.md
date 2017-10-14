@@ -18,6 +18,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
     - [x] [Counting Boolean Parenthesizations](https://www.youtube.com/watch?v=oyj9tRZhmis)
 - [x] **[Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
+    - [x] [Longest Bitonic Subsequence](https://www.youtube.com/watch?v=TWHytKnOPaQ&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=36)
     - [x] [Number of Longest Increasing Subsequence](https://www.youtube.com/watch?v=SFCiuIJu17Y)
     - [x] [Maximum Sum Increasing Subsequence](https://www.youtube.com/watch?v=99ssGWhLPUE&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=28)
     - [x] [Weighted Job Scheduling](https://www.youtube.com/watch?v=cr6Ip0J9izc&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=12)
@@ -47,7 +48,6 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [ ] [Optimal Strategy Game Pick from Ends of Array](https://www.youtube.com/watch?v=WxpIHvsu1RI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=33)
 - [ ] [Maximum Sum Subsequence Non-Adjacent](https://www.youtube.com/watch?v=UtGtF6nc35g&index=34&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Staircase Problem Fibonacci Series](https://www.youtube.com/watch?v=CFQk7OQO_xM&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=35)
-- [ ] [Longest Bitonic Subsequence](https://www.youtube.com/watch?v=TWHytKnOPaQ&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=36)
 - [ ] [Count Number of Binary Search Tree Possible Given N keys](https://www.youtube.com/watch?v=YDf982Lb84o&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=37)
 - [ ] [Total Ways in Matrix](https://www.youtube.com/watch?v=GO5QHC_BmvM&index=38&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Numbers Without Consecutive 1s in Binary Representation](https://www.youtube.com/watch?v=a9-NtLIs1Kk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=39)
