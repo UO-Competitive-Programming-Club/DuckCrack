@@ -30,12 +30,13 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Longest Palindromic Substring](https://www.youtube.com/watch?v=HBtiDHIOK9A)
     - [x] [Longest Common Subsequence](https://www.youtube.com/watch?v=NnD96abizww&index=2&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Longest Palindromic Subsequence](https://www.youtube.com/watch?v=_nCsPn7_OgI&index=9&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [x] [Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)
 - [x] **[Cutting Rod](https://www.youtube.com/watch?v=IRwVmTmN6go&index=14&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Word Break](https://www.youtube.com/watch?v=WepWFGxiwRs&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=19)
 - [x] **[Minimum Cost Path](https://www.youtube.com/watch?v=lBRtnuxg-gU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=20)**
-    - [ ] [Triangle](https://www.youtube.com/watch?v=ITV2CglqkWU)
     - [x] [Minimum Jump to Reach End](https://www.youtube.com/watch?v=cETfFsSTGJI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=21)
+    - [x] [Out of Boundary Paths](http://www.cnblogs.com/grandyang/p/6927921.html)
+    - [ ] [Triangle](https://www.youtube.com/watch?v=ITV2CglqkWU)
+- [x] [Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)
 - [ ] [Regular Expression](https://www.youtube.com/watch?v=l3hda49XcDE&index=24&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Text Justification](https://www.youtube.com/watch?v=RORuwHiblPc&index=18&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Wild Card Matching](https://www.youtube.com/watch?v=3ZDZ-N0EPV0&index=25&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -85,6 +86,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [650. 2 Keys Keyboard](https://leetcode.com/tag/dynamic-programming/)
 - [x] [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 - [x] [646. Maxium Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
+- [x] [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/discuss/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
 - [ ] [120. Triangle](https://leetcode.com/problems/triangle/description/)
 - [ ] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
