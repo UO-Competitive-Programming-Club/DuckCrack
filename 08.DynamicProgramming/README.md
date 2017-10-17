@@ -8,7 +8,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 * How many solutions are there?
 * Enumerate all the solutions?
 
-#### Classical (Video)
+### Classical (Video)
 - [x] **[0/1 Knapsack Problem](https://www.youtube.com/watch?v=8LusJS5-AGo&index=1&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Subset Sum](https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4)
     - [x] [Coin Changing](https://www.youtube.com/watch?v=NJasGk)
@@ -37,14 +37,14 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Minimum Jump to Reach End](https://www.youtube.com/watch?v=cETfFsSTGJI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=21)
     - [x] [Out of Boundary Paths](http://www.cnblogs.com/grandyang/p/6927921.html)
     - [ ] [Triangle](https://www.youtube.com/watch?v=ITV2CglqkWU)
+- [x] **[Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)**
+    - [x] [Wild Card Matching](https://www.youtube.com/watch?v=3ZDZ-N0EPV0&index=25&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+    - [ ] [Regular Expression](https://www.youtube.com/watch?v=l3hda49XcDE&index=24&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] **[Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [ ] [Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
     - [ ] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
     - [ ] [Maximum Sub Square Matrix](https://www.youtube.com/watch?v=_Lf1looyJMU&index=29&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [x] [Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)
-- [ ] [Regular Expression](https://www.youtube.com/watch?v=l3hda49XcDE&index=24&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Text Justification](https://www.youtube.com/watch?v=RORuwHiblPc&index=18&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [ ] [Wild Card Matching](https://www.youtube.com/watch?v=3ZDZ-N0EPV0&index=25&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Palindrome Partition](https://www.youtube.com/watch?v=lDYIvtBVmgo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=26)
 - [ ] [String Interleaving](https://www.youtube.com/watch?v=ih2OZ9-M3OM&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=32)
 - [ ] [Optimal Strategy Game Pick from Ends of Array](https://www.youtube.com/watch?v=WxpIHvsu1RI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=33)
@@ -87,6 +87,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/discuss/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
 - [ ] [120. Triangle](https://leetcode.com/problems/triangle/description/)
+- [x] [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 - [ ] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 - [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 
