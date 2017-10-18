@@ -36,10 +36,11 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] **[Minimum Cost Path](https://www.youtube.com/watch?v=lBRtnuxg-gU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=20)**
     - [x] [Minimum Jump to Reach End](https://www.youtube.com/watch?v=cETfFsSTGJI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=21)
     - [x] [Out of Boundary Paths](http://www.cnblogs.com/grandyang/p/6927921.html)
-    - [ ] [Triangle](https://www.youtube.com/watch?v=ITV2CglqkWU)
+    - [x] [Knight Probability in Chessboard](https://www.youtube.com/watch?v=MyJvMydR2G4)
 - [x] **[Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)**
     - [x] [Wild Card Matching](https://www.youtube.com/watch?v=3ZDZ-N0EPV0&index=25&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Regular Expression Matching](https://www.youtube.com/watch?v=l3hda49XcDE&index=24&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+    - [ ] [Triangle](https://www.youtube.com/watch?v=ITV2CglqkWU)
 - [ ] **[Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [ ] [Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
     - [ ] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
@@ -85,11 +86,12 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 - [x] [646. Maxium Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)
 - [x] [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/discuss/)
-- [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
+- [x] [Knight Probability in Chessboard](https://www.youtube.com/watch?v=MyJvMydR2G4)
 - [ ] [120. Triangle](https://leetcode.com/problems/triangle/description/)
 - [x] [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 - [x] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 - [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
+- [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
 
 
 #### GeeksforGeeks
