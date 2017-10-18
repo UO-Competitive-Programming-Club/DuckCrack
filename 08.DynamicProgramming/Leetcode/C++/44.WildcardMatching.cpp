@@ -31,8 +31,5 @@ bool isMatch(string s, string p) {
 
 int main() {
     cout << isMatch("aaaaaaa", "*a") << endl;
-
-
-
     return 0;
 }
