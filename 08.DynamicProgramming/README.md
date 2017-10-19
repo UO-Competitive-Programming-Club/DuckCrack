@@ -17,12 +17,14 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] **[Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)**
     - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
     - [x] [Counting Boolean Parenthesizations](https://www.youtube.com/watch?v=oyj9tRZhmis)
+    - [x] [Floyd-Warshall Algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm)
 - [x] **[Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Longest Bitonic Subsequence](https://www.youtube.com/watch?v=TWHytKnOPaQ&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=36)
     - [x] [Number of Longest Increasing Subsequence](https://www.youtube.com/watch?v=SFCiuIJu17Y)
     - [x] [Maximum Sum Increasing Subsequence](https://www.youtube.com/watch?v=99ssGWhLPUE&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=28)
     - [x] [Weighted Job Scheduling](https://www.youtube.com/watch?v=cr6Ip0J9izc&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=12)
     - [x] [Maximum Length of Chain of Pairs](https://www.youtube.com/watch?v=v-HIXptqM3Q)
+    - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
     - [ ] [Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [ ] [Building Bridges](https://www.youtube.com/watch?v=w6tSmS86C4w)
 - [x] **[Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
@@ -45,10 +47,11 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [ ] [Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
     - [ ] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
     - [ ] [Maximum Sub Square Matrix](https://www.youtube.com/watch?v=_Lf1looyJMU&index=29&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [ ] **[Optimal Strategy Game Pick from Ends of Array](https://www.youtube.com/watch?v=WxpIHvsu1RI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=33)**
+    - [ ] [Can I Win](https://www.youtube.com/watch?v=PI3buD1dOJ8)
 - [ ] [Text Justification](https://www.youtube.com/watch?v=RORuwHiblPc&index=18&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Palindrome Partition](https://www.youtube.com/watch?v=lDYIvtBVmgo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=26)
 - [ ] [String Interleaving](https://www.youtube.com/watch?v=ih2OZ9-M3OM&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=32)
-- [ ] [Optimal Strategy Game Pick from Ends of Array](https://www.youtube.com/watch?v=WxpIHvsu1RI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=33)
 - [ ] [Maximum Sum Subsequence Non-Adjacent](https://www.youtube.com/watch?v=UtGtF6nc35g&index=34&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Staircase Problem Fibonacci Series](https://www.youtube.com/watch?v=CFQk7OQO_xM&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=35)
 - [ ] [Numbers Without Consecutive 1s in Binary Representation](https://www.youtube.com/watch?v=a9-NtLIs1Kk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=39)
@@ -90,6 +93,8 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [ ] [120. Triangle](https://leetcode.com/problems/triangle/description/)
 - [x] [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 - [x] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+- [x] [467. Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)
+- [x] [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
 - [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
 
