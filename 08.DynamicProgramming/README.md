@@ -51,11 +51,12 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Wild Card Matching](https://www.youtube.com/watch?v=3ZDZ-N0EPV0&index=25&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Regular Expression Matching](https://www.youtube.com/watch?v=l3hda49XcDE&index=24&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [String Interleaving](https://www.youtube.com/watch?v=ih2OZ9-M3OM&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=32)
-- [ ] **[Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
-    - [ ] [Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
-    - [ ] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
-    - [ ] [Maximum Subsquare With Sides as X](https://www.youtube.com/watch?v=vi_1eHCsR9A&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=42)
-    - [ ] [Maximum Sub Square Matrix](https://www.youtube.com/watch?v=_Lf1looyJMU&index=29&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [x] **[Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)**
+    - [x] [Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [x] **[Maximum Rectangular Area in Histogram](https://www.youtube.com/watch?v=ZmnqCZp9bBs)**
+    - [x] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
+- [ ] [Maximum Subsquare With Sides as X](https://www.youtube.com/watch?v=vi_1eHCsR9A&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=42)
+- [ ] [Maximum Sub Square Matrix](https://www.youtube.com/watch?v=_Lf1looyJMU&index=29&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] **[Optimal Strategy Game Pick from Ends of Array](https://www.youtube.com/watch?v=WxpIHvsu1RI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=33)**
     - [ ] [Can I Win](https://www.youtube.com/watch?v=PI3buD1dOJ8)
 - [ ] **[Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
@@ -98,6 +99,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 - [x] [467. Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)
 - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
+- [ ] [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 - [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
 
