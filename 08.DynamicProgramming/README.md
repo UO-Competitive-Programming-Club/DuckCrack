@@ -100,7 +100,6 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 - [x] [467. Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)
 - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
-- [ ] [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 - [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
 ##### Hard
@@ -112,6 +111,18 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [ ] [639. Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/)
 - [x] [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
 - [x] [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/discuss/)
+- [x] [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
+- [x] [97. Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
+- [ ] [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
+- [ ] [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/)
+- [ ] [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
+- [ ] [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/)
+- [ ] [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/description/)
+- [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
+- [ ] [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
+- [ ] [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
+- [ ] [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
+- [ ] [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
 
 #### GeeksforGeeks
 - [x] [Minimum Ways of Changing Coins](http://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
