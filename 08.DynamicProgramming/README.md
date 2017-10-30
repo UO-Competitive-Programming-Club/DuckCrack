@@ -11,9 +11,9 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 ### Classical (Video)
 - [ ] **[Fibonacci](https://www.youtube.com/watch?v=e0CAbRVYAWg)**
     - [x] [Decode Ways](https://www.youtube.com/watch?v=aCKyFYF9_Bg)
-    - [ ] [Staircase Problem Fibonacci Series](https://www.youtube.com/watch?v=CFQk7OQO_xM&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=35)
-- [ ] **[Maximum Sum Subsequence Non-Adjacent](https://www.youtube.com/watch?v=UtGtF6nc35g&index=34&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
-    - [ ] [Numbers Without Consecutive 1s in Binary Representation](https://www.youtube.com/watch?v=a9-NtLIs1Kk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=39)
+    - [ ] [Staircase Problem Fibonacci Series](http://www.geeksforgeeks.org/count-ways-reach-nth-stair/)
+- [ ] **[Maximum Sum Subsequence Non-Adjacent](http://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/)**
+    - [ ] [Numbers Without Consecutive 1s in Binary Representation](http://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/)
 - [x] **[0/1 Knapsack Problem](https://www.youtube.com/watch?v=8LusJS5-AGo&index=1&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Subset Sum](https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4)
     - [x] [Coin Changing](https://www.youtube.com/watch?v=NJasGk)
@@ -23,11 +23,12 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] **[Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)**
     - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
     - [x] [Counting Boolean Parenthesizations](https://www.youtube.com/watch?v=oyj9tRZhmis)
-    - [ ] [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) (Hard)
     - [x] [Strange Printer](https://leetcode.com/problems/strange-printer/description/)
     - [x] [Floyd-Warshall Algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm)
     - [x] [Palindrome Partition](https://www.youtube.com/watch?v=lDYIvtBVmgo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=26)
     - [x] [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/discuss/)
+    - [x] [Cutting Rod](https://www.youtube.com/watch?v=IRwVmTmN6go&index=14&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+    - [x] [Word Break](https://www.youtube.com/watch?v=WepWFGxiwRs&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=19)
 - [x] **[Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Longest Bitonic Subsequence](https://www.youtube.com/watch?v=TWHytKnOPaQ&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=36)
     - [x] [Number of Longest Increasing Subsequence](https://www.youtube.com/watch?v=SFCiuIJu17Y)
@@ -35,32 +36,32 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Weighted Job Scheduling](https://www.youtube.com/watch?v=cr6Ip0J9izc&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=12)
     - [x] [Maximum Length of Chain of Pairs](https://www.youtube.com/watch?v=v-HIXptqM3Q)
     - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
-    - [ ] [Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+    - [x] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
+    - [x] [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) (Hard)
+    - [x] [Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [ ] [Building Bridges](https://www.youtube.com/watch?v=w6tSmS86C4w)
 - [x] **[Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Buy/Sell Stock With K Transactions](https://www.youtube.com/watch?v=oDhu5uGq_ic&index=22&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] **[Longest Common Substring](https://www.youtube.com/watch?v=BysNXJHzCEs&index=16&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Longest Palindromic Substring](https://www.youtube.com/watch?v=HBtiDHIOK9A)
     - [x] [Longest Common Subsequence](https://www.youtube.com/watch?v=NnD96abizww&index=2&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-    - [x] [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
+    - [x] [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
     - [x] [Longest Palindromic Subsequence](https://www.youtube.com/watch?v=_nCsPn7_OgI&index=9&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Palindrome Partition](https://www.youtube.com/watch?v=lDYIvtBVmgo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=26)
-- [x] **[Cutting Rod](https://www.youtube.com/watch?v=IRwVmTmN6go&index=14&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
-    - [x] [Word Break](https://www.youtube.com/watch?v=WepWFGxiwRs&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=19)
 - [x] **[Minimum Cost Path](https://www.youtube.com/watch?v=lBRtnuxg-gU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=20)**
     - [x] [Minimum Jump to Reach End](https://www.youtube.com/watch?v=cETfFsSTGJI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=21)
     - [x] [Out of Boundary Paths](http://www.cnblogs.com/grandyang/p/6927921.html)
     - [x] [Knight Probability in Chessboard](https://www.youtube.com/watch?v=MyJvMydR2G4)
     - [x] [Triangle](https://www.youtube.com/watch?v=ITV2CglqkWU)
+    - [x] [Dungeon Game](https://leetcode.com/problems/dungeon-game/description/)
 - [x] **[Minimum Edit Distance](https://www.youtube.com/watch?v=We3YDTzNXEk&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=8)**
     - [x] [Wild Card Matching](https://www.youtube.com/watch?v=3ZDZ-N0EPV0&index=25&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Regular Expression Matching](https://www.youtube.com/watch?v=l3hda49XcDE&index=24&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [String Interleaving](https://www.youtube.com/watch?v=ih2OZ9-M3OM&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=32)
 - [x] **[Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)**
     - [x] [Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [x] **[Maximum Rectangular Area in Histogram](https://www.youtube.com/watch?v=ZmnqCZp9bBs)**
-    - [x] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
-- [x] [Maximum Subsquare With Sides as X](https://www.youtube.com/watch?v=vi_1eHCsR9A&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=42)
+    - [ ] [Maximum sum subarray having sum less than k](http://www.geeksforgeeks.org/maximum-sum-subarray-sum-less-equal-given-sum/) 
+    - [ ] [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) 
 - [x] [Maximum Sub Square Matrix](https://www.youtube.com/watch?v=_Lf1looyJMU&index=29&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Sum Query in 2D immutable Array](https://www.youtube.com/watch?v=PwDqpOMwg6U&index=40&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Text Justification](https://www.youtube.com/watch?v=RORuwHiblPc&index=18&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -69,6 +70,9 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [ ] **[Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [ ] [Count Number of Binary Search Tree Possible Given N keys](https://www.youtube.com/watch?v=YDf982Lb84o&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=37)
     - [ ] [Count Number of Binary Tree Possible GIven Preorder Sequence Length](https://www.youtube.com/watch?v=RUB5ZPfKcnY&index=41&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [x] **[Maximum Subsquare With Sides as X](https://www.youtube.com/watch?v=vi_1eHCsR9A&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=42)**
+    - [x] [Maximum Rectangular Area in Histogram](https://www.youtube.com/watch?v=ZmnqCZp9bBs)
+    - [x] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
 
 ## Tricks
 
@@ -81,10 +85,8 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 #### Leetcode
 - [x] [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 - [x] [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
-- [x] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
 - [x] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 - [x] [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
-- [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
 - [x] [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/)
 - [x] [139. Word Break](https://leetcode.com/problems/word-break/description/)
 - [x] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
@@ -102,7 +104,10 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
 - [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
+- [ ] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
 ##### Hard
+- [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
+- [x] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
 - [x] [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
 - [x] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 - [x] [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/discuss/)
@@ -113,9 +118,9 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/discuss/)
 - [x] [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 - [x] [97. Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
-- [ ] [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
-- [ ] [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/)
-- [ ] [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
+- [x] [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
+- [x] [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/)
+- [x] [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
 - [ ] [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/)
 - [ ] [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/description/)
 - [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
