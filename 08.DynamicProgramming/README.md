@@ -20,6 +20,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Coin Changing Number of ways](https://www.youtube.com/watch?v=_fgjrs570YE&index=10&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk)
     - [x] [Frog Jump](https://leetcode.com/problems/frog-jump/discuss/)
+    - [x] [Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
 - [x] **[Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)**
     - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
     - [x] [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) (Hard) ~~(sub-problem is not self contained)~~
@@ -42,6 +43,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [ ] [Building Bridges](https://www.youtube.com/watch?v=w6tSmS86C4w)
 - [x] **[Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Buy/Sell Stock With K Transactions](https://www.youtube.com/watch?v=oDhu5uGq_ic&index=22&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+    - [x] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [x] **[Longest Common Substring](https://www.youtube.com/watch?v=BysNXJHzCEs&index=16&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Longest Palindromic Substring](https://www.youtube.com/watch?v=HBtiDHIOK9A)
     - [x] [Longest Common Subsequence](https://www.youtube.com/watch?v=NnD96abizww&index=2&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -122,11 +124,10 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/)
 - [x] [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
 - [x] [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/)
-- [ ] [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/description/)
-- [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
+- [x] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
+- [x] [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
 - [ ] [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
 - [ ] [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
-- [ ] [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
 
 #### GeeksforGeeks
 - [x] [Minimum Ways of Changing Coins](http://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
