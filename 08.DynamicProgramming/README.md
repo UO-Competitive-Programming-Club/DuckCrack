@@ -60,8 +60,8 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [String Interleaving](https://www.youtube.com/watch?v=ih2OZ9-M3OM&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=32)
 - [x] **[Largest Sum Contiguous Subarray](http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)**
     - [x] [Maxium Sum Rectangular Submatrix in Matrix](https://www.youtube.com/watch?v=yCQN096CwWM&index=15&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-    - [ ] [Maximum sum subarray having sum less than k](http://www.geeksforgeeks.org/maximum-sum-subarray-sum-less-equal-given-sum/) 
-    - [ ] [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) 
+    - [x] [Maximum sum subarray having sum less than k](https://www.quora.com/Given-an-array-of-integers-A-and-an-integer-k-find-a-subarray-that-contains-the-largest-sum-subject-to-a-constraint-that-the-sum-is-less-than-k) ~~(very interesting)~~
+    - [x] [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) 
 - [x] [Maximum Sub Square Matrix](https://www.youtube.com/watch?v=_Lf1looyJMU&index=29&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Sum Query in 2D immutable Array](https://www.youtube.com/watch?v=PwDqpOMwg6U&index=40&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Text Justification](https://www.youtube.com/watch?v=RORuwHiblPc&index=18&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -121,12 +121,11 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
 - [x] [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/)
 - [x] [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
-- [ ] [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/)
+- [x] [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/)
 - [ ] [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/description/)
 - [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [ ] [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
 - [ ] [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
-- [ ] [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
 - [ ] [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
 
 #### GeeksforGeeks
