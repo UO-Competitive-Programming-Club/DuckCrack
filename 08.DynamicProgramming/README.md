@@ -22,6 +22,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Frog Jump](https://leetcode.com/problems/frog-jump/discuss/)
 - [x] **[Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)**
     - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
+    - [x] [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) (Hard) ~~(sub-problem is not self contained)~~
     - [x] [Counting Boolean Parenthesizations](https://www.youtube.com/watch?v=oyj9tRZhmis)
     - [x] [Strange Printer](https://leetcode.com/problems/strange-printer/description/)
     - [x] [Floyd-Warshall Algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm)
@@ -37,7 +38,6 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Maximum Length of Chain of Pairs](https://www.youtube.com/watch?v=v-HIXptqM3Q)
     - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
     - [x] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
-    - [x] [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) (Hard)
     - [x] [Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [ ] [Building Bridges](https://www.youtube.com/watch?v=w6tSmS86C4w)
 - [x] **[Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
