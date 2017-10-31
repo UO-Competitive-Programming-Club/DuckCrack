@@ -11,9 +11,11 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 ### Classical (Video)
 - [ ] **[Fibonacci](https://www.youtube.com/watch?v=e0CAbRVYAWg)**
     - [x] [Decode Ways](https://www.youtube.com/watch?v=aCKyFYF9_Bg)
+    - [ ] [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/)
     - [ ] [Staircase Problem Fibonacci Series](http://www.geeksforgeeks.org/count-ways-reach-nth-stair/)
 - [ ] **[Maximum Sum Subsequence Non-Adjacent](http://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/)**
     - [ ] [Numbers Without Consecutive 1s in Binary Representation](http://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/)
+    - [ ] [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/)
 - [x] **[0/1 Knapsack Problem](https://www.youtube.com/watch?v=8LusJS5-AGo&index=1&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Subset Sum](https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4)
     - [x] [Coin Changing](https://www.youtube.com/watch?v=NJasGk)
@@ -53,7 +55,8 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
     - [x] [Longest Palindromic Subsequence](https://www.youtube.com/watch?v=_nCsPn7_OgI&index=9&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Palindrome Partition](https://www.youtube.com/watch?v=lDYIvtBVmgo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=26)
-- [x] **[Minimum Cost Path](https://www.youtube.com/watch?v=lBRtnuxg-gU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=20)**
+- [x] **[Unique Path](https://leetcode.com/problems/unique-paths/description/)**
+    - [x] [Minimum Cost Path](https://www.youtube.com/watch?v=lBRtnuxg-gU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=20)
     - [x] [Minimum Jump to Reach End](https://www.youtube.com/watch?v=cETfFsSTGJI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=21)
     - [x] [Out of Boundary Paths](http://www.cnblogs.com/grandyang/p/6927921.html)
     - [x] [Knight Probability in Chessboard](https://www.youtube.com/watch?v=MyJvMydR2G4)
@@ -70,14 +73,14 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [Maximum Sub Square Matrix](https://www.youtube.com/watch?v=_Lf1looyJMU&index=29&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [x] [Sum Query in 2D immutable Array](https://www.youtube.com/watch?v=PwDqpOMwg6U&index=40&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [ ] [Text Justification](https://www.youtube.com/watch?v=RORuwHiblPc&index=18&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [x] **[Maximum Subsquare With Sides as X](https://www.youtube.com/watch?v=vi_1eHCsR9A&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=42)**
+    - [x] [Maximum Rectangular Area in Histogram](https://www.youtube.com/watch?v=ZmnqCZp9bBs)
+    - [x] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
 - [ ] **[Optimal Strategy Game Pick from Ends of Array](https://www.youtube.com/watch?v=WxpIHvsu1RI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=33)**
     - [ ] [Can I Win](https://www.youtube.com/watch?v=PI3buD1dOJ8)
 - [ ] **[Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [ ] [Count Number of Binary Search Tree Possible Given N keys](https://www.youtube.com/watch?v=YDf982Lb84o&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=37)
     - [ ] [Count Number of Binary Tree Possible GIven Preorder Sequence Length](https://www.youtube.com/watch?v=RUB5ZPfKcnY&index=41&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [x] **[Maximum Subsquare With Sides as X](https://www.youtube.com/watch?v=vi_1eHCsR9A&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=42)**
-    - [x] [Maximum Rectangular Area in Histogram](https://www.youtube.com/watch?v=ZmnqCZp9bBs)
-    - [x] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
 
 ## Tricks
 
@@ -107,9 +110,25 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 - [x] [467. Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)
 - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
+- [x] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
 - [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
-- [x] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
+- [ ] [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/)
+- [ ] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
+- [ ] [198. House Robber](https://leetcode.com/problems/house-robber/description/)
+- [ ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+- [ ] [464. Can I Win](https://leetcode.com/problems/can-i-win/description/)
+- [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
+- [ ] [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
+- [ ] [120. Triangle](https://leetcode.com/problems/triangle/description/)
+- [ ] [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
+- [ ] [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)
+- [ ] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
+- [ ] [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)
+- [ ] [494. Target Sum](https://leetcode.com/problems/target-sum/description/)
+- [ ] [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
+- [ ] [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
+- [ ] [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
 ##### Hard
 - [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
 - [x] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
