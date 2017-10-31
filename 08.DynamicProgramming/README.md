@@ -21,6 +21,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk)
     - [x] [Frog Jump](https://leetcode.com/problems/frog-jump/discuss/)
     - [x] [Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
+    - [x] [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
 - [x] **[Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)**
     - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
     - [x] [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) (Hard) ~~(sub-problem is not self contained)~~
@@ -31,6 +32,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/discuss/)
     - [x] [Cutting Rod](https://www.youtube.com/watch?v=IRwVmTmN6go&index=14&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Word Break](https://www.youtube.com/watch?v=WepWFGxiwRs&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=19)
+    - [x] [Concatenated Words](https://leetcode.com/problems/concatenated-words/discuss/)
 - [x] **[Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Longest Bitonic Subsequence](https://www.youtube.com/watch?v=TWHytKnOPaQ&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=36)
     - [x] [Number of Longest Increasing Subsequence](https://www.youtube.com/watch?v=SFCiuIJu17Y)
@@ -40,6 +42,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
     - [x] [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)
     - [x] [Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+    - [x] [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
     - [ ] [Building Bridges](https://www.youtube.com/watch?v=w6tSmS86C4w)
 - [x] **[Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Buy/Sell Stock With K Transactions](https://www.youtube.com/watch?v=oDhu5uGq_ic&index=22&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -106,7 +109,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
 - [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
-- [ ] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
+- [x] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
 ##### Hard
 - [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
 - [x] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
@@ -126,8 +129,8 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/)
 - [x] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [x] [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
-- [ ] [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
-- [ ] [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
+- [x] [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
+- [x] [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
 
 #### GeeksforGeeks
 - [x] [Minimum Ways of Changing Coins](http://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
