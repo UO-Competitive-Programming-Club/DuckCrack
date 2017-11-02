@@ -16,13 +16,18 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [ ] **[Maximum Sum Subsequence Non-Adjacent](http://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/)**
     - [ ] [Numbers Without Consecutive 1s in Binary Representation](http://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/)
     - [ ] [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/)
-- [x] **[0/1 Knapsack Problem](https://www.youtube.com/watch?v=8LusJS5-AGo&index=1&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
-    - [x] [Subset Sum](https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4)
+- [x] **[Knapsack Problem](https://www.utdallas.edu/~scniu/OPRE-6201/documents/DP3-Knapsack.pdf)**
+    - [x] [0/1 Knapsack Problem](https://www.youtube.com/watch?v=8LusJS5-AGo&index=1&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+        - [x] [Subset Sum](https://www.youtube.com/watch?v=s6FhG--P7z0&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=4)
+        - [x] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+        - [x] [Subset Sum (Contains Negative Numbers)]
+        - [x] [Target Sum](https://leetcode.com/problems/target-sum/description/)
+        - [ ] [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
     - [x] [Coin Changing](https://www.youtube.com/watch?v=NJasGk)
-    - [x] [Coin Changing Number of ways](https://www.youtube.com/watch?v=_fgjrs570YE&index=10&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-    - [x] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk)
+        - [x] [Coin Changing Number of ways](https://www.youtube.com/watch?v=_fgjrs570YE&index=10&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+        - [x] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk)
     - [x] [Frog Jump](https://leetcode.com/problems/frog-jump/discuss/)
-    - [x] [Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
+        - [x] [Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
     - [x] [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
     - [x] [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
 - [x] **[Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)**
@@ -47,15 +52,13 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Box Stacking](https://www.youtube.com/watch?v=9mod_xRB-O0&index=23&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
     - [ ] [Building Bridges](https://www.youtube.com/watch?v=w6tSmS86C4w)
-- [x] **[Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
-    - [x] [Buy/Sell Stock With K Transactions](https://www.youtube.com/watch?v=oDhu5uGq_ic&index=22&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-    - [x] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [x] **[Longest Common Substring](https://www.youtube.com/watch?v=BysNXJHzCEs&index=16&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Longest Palindromic Substring](https://www.youtube.com/watch?v=HBtiDHIOK9A)
     - [x] [Longest Common Subsequence](https://www.youtube.com/watch?v=NnD96abizww&index=2&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
     - [x] [Longest Palindromic Subsequence](https://www.youtube.com/watch?v=_nCsPn7_OgI&index=9&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
     - [x] [Palindrome Partition](https://www.youtube.com/watch?v=lDYIvtBVmgo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=26)
+    - [ ] [Longest Repeated Subsequence](http://www.geeksforgeeks.org/longest-repeated-subsequence/)
 - [x] **[Unique Path](https://leetcode.com/problems/unique-paths/description/)**
     - [x] [Minimum Cost Path](https://www.youtube.com/watch?v=lBRtnuxg-gU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=20)
     - [x] [Minimum Jump to Reach End](https://www.youtube.com/watch?v=cETfFsSTGJI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=21)
@@ -77,6 +80,9 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] **[Maximum Subsquare With Sides as X](https://www.youtube.com/watch?v=vi_1eHCsR9A&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=42)**
     - [x] [Maximum Rectangular Area in Histogram](https://www.youtube.com/watch?v=ZmnqCZp9bBs)
     - [x] [Maximum Size Rectangle of All 1's](https://www.youtube.com/watch?v=g8bSdXCG-lA&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17)
+- [x] **[Egg Dropping](https://www.youtube.com/watch?v=3hcaVyX00_4&index=13&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
+    - [x] [Buy/Sell Stock With K Transactions](https://www.youtube.com/watch?v=oDhu5uGq_ic&index=22&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+    - [x] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [ ] **[Optimal Strategy Game Pick from Ends of Array](https://www.youtube.com/watch?v=WxpIHvsu1RI&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=33)**
     - [ ] [Can I Win](https://www.youtube.com/watch?v=PI3buD1dOJ8)
 - [ ] **[Optimal Binary Search Tree](https://www.youtube.com/watch?v=hgA4xxlVvfQ&index=5&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
@@ -112,7 +118,9 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [467. Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)
 - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
 - [x] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
-- [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
+- [x] [494. Target Sum](https://leetcode.com/problems/target-sum/description/)
+- [x] [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
+- [x] [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
 - [ ] [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/)
 - [ ] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
@@ -124,9 +132,6 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [ ] [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)
 - [ ] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [ ] [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)
-- [ ] [494. Target Sum](https://leetcode.com/problems/target-sum/description/)
-- [x] [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
-- [x] [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
 - [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
 - [ ] [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
 ##### Hard
@@ -136,8 +141,6 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 - [x] [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/discuss/)
 - [x] [664. Strange Printer](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/discuss/)
-- [ ] [546. Remove Boxes](https://leetcode.com/problems/remove-boxes/description/)
-- [ ] [639. Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/)
 - [x] [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
 - [x] [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/discuss/)
 - [x] [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
@@ -150,6 +153,9 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
 - [x] [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
 - [x] [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
+- [ ] [546. Remove Boxes](https://leetcode.com/problems/remove-boxes/description/)
+- [ ] [639. Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/)
+- [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 
 #### GeeksforGeeks
 - [x] [Minimum Ways of Changing Coins](http://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
