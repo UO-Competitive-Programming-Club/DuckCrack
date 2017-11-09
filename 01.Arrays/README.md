@@ -120,6 +120,7 @@ Check box indicate if a solution is availible
 - [x] 11. Container With Most Water 
 - [x] 55. Jump Game
 - [x] 289. Game of Life Question
+- [x] 283. Move Zeros
 
 ### Geeks for Geeks
 - [x] [Find Maximum Sum Strictly Increasing Subarray](http://www.geeksforgeeks.org/find-maximum-sum-strictly-increasing-subarray/)
