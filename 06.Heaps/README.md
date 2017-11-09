@@ -2,7 +2,7 @@
 
 ## Must Know
 
-##Tricks
+## Tricks
 
 * Heap Property
     - [Check if a given Binary Tree is Heap](http://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-heap/)
@@ -23,8 +23,8 @@
     - **Leetcode** 264. Ugly Number II
     - **[Connect n ropes with minimum cost](http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)**
 
-##Porblem set
-####EPI
+## Porblem set
+#### EPI
 - [x] 11.1 Merge Sorted Files
 - [x] 11.2 Sort An Increasing-Decreasing Array
 - [x] 11.3 Sort An Almost Sorted Array
@@ -32,10 +32,10 @@
 - [x] 11.5 Compute the Median of Online Data
 - [x] 11.6 Compute The K largest Elements in a Max-Heap
 
-####CCTI
+#### CCTI
 No problems for this topic 
 
-####Leetcode
+#### Leetcode
 - [x] 263. Ugly Number
 - [x] 264. Ugly Number II
 - [ ] 313. Super Ugly Number
@@ -47,7 +47,7 @@ No problems for this topic
 - [ ] 239. Sliding Window Maximum
 
 
-####GeeksforGeeks
+#### GeeksforGeeks
 - [x] [Connect n ropes with minimum cost](http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 - [x] [Check if a given Binary Tree is Heap](http://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-heap/)
 - [x] [How to check if a given array represents a Binary Heap?](http://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/)

@@ -22,7 +22,6 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
         - [x] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
         - [x] [Subset Sum (Contains Negative Numbers)]
         - [x] [Target Sum](https://leetcode.com/problems/target-sum/description/)
-        - [ ] [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
     - [x] [Coin Changing](https://www.youtube.com/watch?v=NJasGk)
         - [x] [Coin Changing Number of ways](https://www.youtube.com/watch?v=_fgjrs570YE&index=10&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
         - [x] [Coin Chaning Minimum Coins](https://www.youtube.com/watch?v=NJasGk)
@@ -121,8 +120,8 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [494. Target Sum](https://leetcode.com/problems/target-sum/description/)
 - [x] [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
 - [x] [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
+- [x] [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
-- [ ] [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/)
 - [ ] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
 - [ ] [198. House Robber](https://leetcode.com/problems/house-robber/description/)
 - [ ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
