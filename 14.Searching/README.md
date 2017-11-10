@@ -19,6 +19,7 @@ mid =  start+(end-start)/2;
 #### CCTI
 
 #### Leetcode
+- [ ] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/discuss/)
 
 
 #### GeeksforGeeks

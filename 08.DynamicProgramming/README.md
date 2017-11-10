@@ -10,9 +10,9 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 
 ### Classical (Video)
 - [ ] **[Fibonacci](https://www.youtube.com/watch?v=e0CAbRVYAWg)**
+    - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
     - [x] [Decode Ways](https://www.youtube.com/watch?v=aCKyFYF9_Bg)
     - [ ] [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/)
-    - [ ] [Staircase Problem Fibonacci Series](http://www.geeksforgeeks.org/count-ways-reach-nth-stair/)
 - [ ] **[Maximum Sum Subsequence Non-Adjacent](http://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/)**
     - [ ] [Numbers Without Consecutive 1s in Binary Representation](http://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/)
     - [ ] [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/)
@@ -121,10 +121,11 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
 - [x] [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
 - [x] [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/)
-- [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
+- [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+- [x] [198. House Robber](https://leetcode.com/problems/house-robber/description/)
+- [x] [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
 - [ ] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
-- [ ] [198. House Robber](https://leetcode.com/problems/house-robber/description/)
-- [ ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+- [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
 - [ ] [464. Can I Win](https://leetcode.com/problems/can-i-win/description/)
 - [ ] [120. Triangle](https://leetcode.com/problems/triangle/description/)
 - [ ] [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)
