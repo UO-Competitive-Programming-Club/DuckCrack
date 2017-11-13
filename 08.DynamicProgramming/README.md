@@ -14,6 +14,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Decode Ways](https://www.youtube.com/watch?v=aCKyFYF9_Bg)
     - [ ] [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/)
 - [ ] **[Maximum Sum Subsequence Non-Adjacent](http://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/)**
+    - [x] [House Robber](https://leetcode.com/problems/house-robber/description/)
     - [ ] [Numbers Without Consecutive 1s in Binary Representation](http://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/)
     - [ ] [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/)
 - [x] **[Knapsack Problem](https://www.utdallas.edu/~scniu/OPRE-6201/documents/DP3-Knapsack.pdf)**
@@ -29,6 +30,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
         - [x] [Freedom Trail](https://leetcode.com/problems/freedom-trail/description/)
     - [x] [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
     - [x] [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
+    - [x] [Integer Break](https://leetcode.com/problems/integer-break/discuss/)
 - [x] **[Matrix Chain Mutiplication](https://www.youtube.com/watch?v=vgLJZMUfnsU&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=3)**
     - [x] [Burst Balloon](https://www.youtube.com/watch?v=IFNibRVgFBo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=30)
     - [x] [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) (Hard) ~~(sub-problem is not self contained)~~
@@ -42,6 +44,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
     - [x] [Concatenated Words](https://leetcode.com/problems/concatenated-words/discuss/)
 - [x] **[Longest Increasing Subsequence](https://www.youtube.com/watch?v=CE2b_-XfVDk&index=7&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)**
     - [x] [Longest Bitonic Subsequence](https://www.youtube.com/watch?v=TWHytKnOPaQ&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=36)
+    - [x] [376. Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)
     - [x] [Number of Longest Increasing Subsequence](https://www.youtube.com/watch?v=SFCiuIJu17Y)
     - [x] [Maximum Sum Increasing Subsequence](https://www.youtube.com/watch?v=99ssGWhLPUE&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=28)
     - [x] [Weighted Job Scheduling](https://www.youtube.com/watch?v=cr6Ip0J9izc&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=12)
@@ -115,16 +118,22 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [688. Knight Probability in Chessboard](https://www.youtube.com/watch?v=MyJvMydR2G4)
 - [x] [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 - [x] [467. Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/)
-- [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
+- [x] [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)
 - [x] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
 - [x] [494. Target Sum](https://leetcode.com/problems/target-sum/description/)
 - [x] [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
 - [x] [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
 - [x] [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/)
 - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
-- [x] [198. House Robber](https://leetcode.com/problems/house-robber/description/)
 - [x] [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
-- [ ] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
+- [x] [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
+- [x] [120. Triangle](https://leetcode.com/problems/triangle/description/)
+- [x] [343. Integer Break](https://leetcode.com/problems/integer-break/discuss/)
+- [x] [198. House Robber](https://leetcode.com/problems/house-robber/description/)
+- [x] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
+- [x] [256. Paint House](https://leetcode.com/problems/paint-house/description/)
+- [x] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
+- [ ] [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
 - [ ] [464. Can I Win](https://leetcode.com/problems/can-i-win/description/)
 - [ ] [120. Triangle](https://leetcode.com/problems/triangle/description/)
@@ -132,8 +141,6 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [ ] [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)
 - [ ] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [ ] [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/)
-- [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
-- [ ] [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
 ##### Hard
 - [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
 - [x] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
@@ -154,6 +161,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)
 - [x] [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
 - [ ] [546. Remove Boxes](https://leetcode.com/problems/remove-boxes/description/)
+- [x] [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
 - [ ] [639. Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/)
 - [ ] [68. Text Justification](https://leetcode.com/problems/text-justification/description/)
 
