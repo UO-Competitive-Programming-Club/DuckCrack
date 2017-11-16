@@ -132,6 +132,7 @@ There is a 5 mins Ted talk discussing [Working backward to solve problems](https
 - [x] [198. House Robber](https://leetcode.com/problems/house-robber/description/)
 - [x] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
 - [x] [256. Paint House](https://leetcode.com/problems/paint-house/description/)
+- [x] [361. Bomb Enemy](https://leetcode.com/problems/bomb-enemy/description/)
 - [x] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
 - [ ] [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
 - [ ] [638. Shopping Offers](https://leetcode.com/problems/shopping-offers/description/)
