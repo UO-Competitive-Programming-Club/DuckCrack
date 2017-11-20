@@ -59,6 +59,10 @@
 - [x] 385. Mini Parser
 - [x] 402. Remove K Digits
 - [x] 456. 132 Pattern
+- [ ] [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+- [ ] [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+
+
 
 #### GeeksforGeeks
 - [x] [Next Greater Element](http://www.geeksforgeeks.org/next-greater-element/)
