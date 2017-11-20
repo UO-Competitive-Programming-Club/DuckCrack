@@ -1,8 +1,9 @@
 # Graph Theory
 
 ## Ticks
-### Search from destination to source
-### Search And Mark
+#### Search from destination to source
+#### Search And Mark
+#### Cycle Detection
 
 ## Must Know
 Differences between dfs and bfs
@@ -15,7 +16,7 @@ Differences between dfs and bfs
 - [x] 19.4 Deadlock Detection
 - [x] 19.5 Clone a Graph
 - [ ] 19.6 Making Wired Connections
-- [ ] 19.7 Transform One String To Another
+- [x] 19.7 Transform One String To Another
 - [ ] 19.8 Team Photo Day
 - [ ] 19.9 Compute a Shortest Path with fewest Edges
 

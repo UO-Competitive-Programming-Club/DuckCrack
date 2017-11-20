@@ -18,7 +18,6 @@ public:
         if (node == nullptr) return node;
 
         unordered_map<UndirectedGraphNode*, UndirectedGraphNode*> node_map;
-        //unordered_set<UndirectedGraphNode*> visited_set;
 
         queue<UndirectedGraphNode*> frontier; frontier.push(node);
         node_map[node] = new UndirectedGraphNode(node->label);
